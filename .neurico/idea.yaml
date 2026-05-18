@@ -1,0 +1,29 @@
+idea:
+  title: Distinct Persona
+  domain: artificial_intelligence
+  hypothesis: 'It is very difficult for LLMs to have good collaborative friction without
+    having a strong, distinct persona. Identity informs what an agent would push back
+    on, and current attempts at neutrality create ''low identity'' speakers. While
+    this works to some extent, it is not effective for collaboration. The research
+    aims to discover what kinds of conversations require the other participant to
+    genuinely believe something.
+
+    '
+  background:
+    description: 'Hypothesis: it is very difficult for LLMs to have good collaborative
+      friction without having a strong, distinct persona. It is identity that tells
+      us what we would push back on, and current attempts at neutrality are equivalent
+      to trying to create ''low identity'' speakers. This largely works, but not very
+      well for collaboration. We are discovering what kind of conversations require
+      the other person to really believe something.
+
+      '
+  metadata:
+    author: Ari Holtzman
+    source: IdeaHub
+    source_url: https://hypogenic.ai/ideahub/idea/UDuY1RpczXwFUGMEXNUT
+    idea_id: distinct_persona_20260518_004816_a08d7cc3
+    created_at: '2026-05-18T00:48:16.726394'
+    status: submitted
+    github_repo_name: distinct-persona-ai-12e6-claude
+    github_repo_url: https://github.com/Hypogenic-AI/distinct-persona-ai-12e6-claude
