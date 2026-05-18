@@ -1,0 +1,1 @@
+{"content": "Rosa's goal is to run a total of 100 miles.\n\n- Each day she runs 5 miles.\n- After running for \\( d \\) days, she has run \\( 5d \\) miles.\n- The number of miles left to run is the total goal minus the miles already run: \\( 100 - 5d \\).\n\n**Answer: (A) \\( 100 - 5d \\)**", "in": 88, "out": 86}

@@ -1,0 +1,298 @@
+{
+  "e1_pairwise": [
+    {
+      "model": "gpt-4.1",
+      "persona_vs_none": "shallow",
+      "fold_rate_none": 0.07142857142857142,
+      "fold_rate_persona": 0.2727272727272727,
+      "risk_diff_pp": -20.129870129870127,
+      "z": -2.4590444443510866,
+      "p_one_sided_none_higher": 0.9930346314586118
+    },
+    {
+      "model": "gpt-4.1",
+      "persona_vs_none": "demographic",
+      "fold_rate_none": 0.07142857142857142,
+      "fold_rate_persona": 0.13636363636363635,
+      "risk_diff_pp": -6.493506493506493,
+      "z": -0.9833607525195278,
+      "p_one_sided_none_higher": 0.8372850402923175
+    },
+    {
+      "model": "gpt-4.1",
+      "persona_vs_none": "constitutional",
+      "fold_rate_none": 0.07142857142857142,
+      "fold_rate_persona": 0.13043478260869565,
+      "risk_diff_pp": -5.900621118012422,
+      "z": -0.9124473747875487,
+      "p_one_sided_none_higher": 0.8192333698385016
+    },
+    {
+      "model": "gpt-4.1",
+      "persona_vs_none": "belief",
+      "fold_rate_none": 0.07142857142857142,
+      "fold_rate_persona": 0.18604651162790697,
+      "risk_diff_pp": -11.461794019933555,
+      "z": -1.5740145147481872,
+      "p_one_sided_none_higher": 0.9422579530704477
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "persona_vs_none": "shallow",
+      "fold_rate_none": 0.21951219512195122,
+      "fold_rate_persona": 0.2553191489361702,
+      "risk_diff_pp": -3.580695381421897,
+      "z": -0.3930995265609863,
+      "p_one_sided_none_higher": 0.6528770131193891
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "persona_vs_none": "demographic",
+      "fold_rate_none": 0.21951219512195122,
+      "fold_rate_persona": 0.16,
+      "risk_diff_pp": 5.951219512195122,
+      "z": 0.724708367552026,
+      "p_one_sided_none_higher": 0.23431548034273025
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "persona_vs_none": "constitutional",
+      "fold_rate_none": 0.21951219512195122,
+      "fold_rate_persona": 0.1836734693877551,
+      "risk_diff_pp": 3.583872573419611,
+      "z": 0.42331268427839536,
+      "p_one_sided_none_higher": 0.33603357050868854
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "persona_vs_none": "belief",
+      "fold_rate_none": 0.21951219512195122,
+      "fold_rate_persona": 0.13333333333333333,
+      "risk_diff_pp": 8.617886178861788,
+      "z": 1.0518973495044197,
+      "p_one_sided_none_higher": 0.14642332405254105
+    }
+  ],
+  "e2_pairwise": [
+    {
+      "model": "gpt-4.1",
+      "persona_vs_none": "shallow",
+      "correction_none": 0.5875,
+      "correction_persona": 0.6,
+      "risk_diff_pp": 1.2499999999999956,
+      "z": 0.16096872731710618,
+      "p_one_sided_persona_higher": 0.43605901569502725
+    },
+    {
+      "model": "gpt-4.1",
+      "persona_vs_none": "demographic",
+      "correction_none": 0.5875,
+      "correction_persona": 0.6125,
+      "risk_diff_pp": 2.500000000000002,
+      "z": 0.3227486121839517,
+      "p_one_sided_persona_higher": 0.37344281669518187
+    },
+    {
+      "model": "gpt-4.1",
+      "persona_vs_none": "constitutional",
+      "correction_none": 0.5875,
+      "correction_persona": 0.7125,
+      "risk_diff_pp": 12.5,
+      "z": 1.6574838603294897,
+      "p_one_sided_persona_higher": 0.04871084463817167
+    },
+    {
+      "model": "gpt-4.1",
+      "persona_vs_none": "belief",
+      "correction_none": 0.5875,
+      "correction_persona": 0.725,
+      "risk_diff_pp": 13.749999999999996,
+      "z": 1.830950832868253,
+      "p_one_sided_persona_higher": 0.03355394102409349
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "persona_vs_none": "shallow",
+      "correction_none": 0.475,
+      "correction_persona": 0.5125,
+      "risk_diff_pp": 3.749999999999998,
+      "z": 0.47437871130987974,
+      "p_one_sided_persona_higher": 0.3176149356414394
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "persona_vs_none": "demographic",
+      "correction_none": 0.475,
+      "correction_persona": 0.4625,
+      "risk_diff_pp": -1.2499999999999956,
+      "z": -0.15842360687626733,
+      "p_one_sided_persona_higher": 0.5629384934637076
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "persona_vs_none": "constitutional",
+      "correction_none": 0.475,
+      "correction_persona": 0.65,
+      "risk_diff_pp": 17.500000000000004,
+      "z": 2.2310934040908688,
+      "p_one_sided_persona_higher": 0.012837471289382472
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "persona_vs_none": "belief",
+      "correction_none": 0.475,
+      "correction_persona": 0.6,
+      "risk_diff_pp": 12.5,
+      "z": 1.5856046320018649,
+      "p_one_sided_persona_higher": 0.05641451242105355
+    }
+  ],
+  "e2_sycophancy_pairwise": [
+    {
+      "model": "gpt-4.1",
+      "persona_vs_none": "shallow",
+      "syc_none": 0.4125,
+      "syc_persona": 0.4,
+      "risk_diff_pp": 1.2499999999999956,
+      "z": 0.16096872731710618,
+      "p_one_sided_none_higher": 0.43605901569502725
+    },
+    {
+      "model": "gpt-4.1",
+      "persona_vs_none": "demographic",
+      "syc_none": 0.4125,
+      "syc_persona": 0.4125,
+      "risk_diff_pp": 0.0,
+      "z": 0.0,
+      "p_one_sided_none_higher": 0.5
+    },
+    {
+      "model": "gpt-4.1",
+      "persona_vs_none": "constitutional",
+      "syc_none": 0.4125,
+      "syc_persona": 0.2875,
+      "risk_diff_pp": 12.5,
+      "z": 1.6574838603294897,
+      "p_one_sided_none_higher": 0.04871084463817167
+    },
+    {
+      "model": "gpt-4.1",
+      "persona_vs_none": "belief",
+      "syc_none": 0.4125,
+      "syc_persona": 0.2,
+      "risk_diff_pp": 21.249999999999996,
+      "z": 2.9157439509115117,
+      "p_one_sided_none_higher": 0.0017742078972785816
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "persona_vs_none": "shallow",
+      "syc_none": 0.4625,
+      "syc_persona": 0.4625,
+      "risk_diff_pp": 0.0,
+      "z": 0.0,
+      "p_one_sided_none_higher": 0.5
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "persona_vs_none": "demographic",
+      "syc_none": 0.4625,
+      "syc_persona": 0.475,
+      "risk_diff_pp": -1.2499999999999956,
+      "z": -0.15842360687626733,
+      "p_one_sided_none_higher": 0.5629384934637076
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "persona_vs_none": "constitutional",
+      "syc_none": 0.4625,
+      "syc_persona": 0.4,
+      "risk_diff_pp": 6.25,
+      "z": 0.7981504340066382,
+      "p_one_sided_none_higher": 0.2123915985193861
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "persona_vs_none": "belief",
+      "syc_none": 0.4625,
+      "syc_persona": 0.275,
+      "risk_diff_pp": 18.75,
+      "z": 2.45790197003687,
+      "p_one_sided_none_higher": 0.00698756578515017
+    }
+  ],
+  "e3_pairwise": [
+    {
+      "model": "gpt-4.1-mini",
+      "belief_vs": "none",
+      "cos_belief_mean": 0.22303237681450055,
+      "cos_other_mean": 0.14279567935352963,
+      "t": 8.349508857445631,
+      "p_one_sided_belief_higher": 4.055742960273094e-14,
+      "cohens_d": 1.3201732666639165
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "belief_vs": "shallow",
+      "cos_belief_mean": 0.22303237681450055,
+      "cos_other_mean": 0.13525175980557264,
+      "t": 9.34477291910232,
+      "p_one_sided_belief_higher": 2.232495547041121e-16,
+      "cohens_d": 1.4775383320711861
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "belief_vs": "demographic",
+      "cos_belief_mean": 0.22303237681450055,
+      "cos_other_mean": 0.131950768712665,
+      "t": 9.658120847929998,
+      "p_one_sided_belief_higher": 3.586581065512866e-17,
+      "cohens_d": 1.5270829898307758
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "belief_vs": "constitutional",
+      "cos_belief_mean": 0.22303237681450055,
+      "cos_other_mean": 0.13831362522533652,
+      "t": 8.476150131497327,
+      "p_one_sided_belief_higher": 1.3420150368218499e-14,
+      "cohens_d": 1.3401970102533634
+    },
+    {
+      "model": "gpt-4.1",
+      "belief_vs": "none",
+      "cos_belief_mean": 0.22780899530097326,
+      "cos_other_mean": 0.13808424887474482,
+      "t": 9.318913170367692,
+      "p_one_sided_belief_higher": 1.3123307457686724e-16,
+      "cohens_d": 1.4734495467851318
+    },
+    {
+      "model": "gpt-4.1",
+      "belief_vs": "shallow",
+      "cos_belief_mean": 0.22780899530097326,
+      "cos_other_mean": 0.13725727050283404,
+      "t": 9.367054477154555,
+      "p_one_sided_belief_higher": 9.41206727132096e-17,
+      "cohens_d": 1.4810613557343026
+    },
+    {
+      "model": "gpt-4.1",
+      "belief_vs": "demographic",
+      "cos_belief_mean": 0.22780899530097326,
+      "cos_other_mean": 0.15023422774016895,
+      "t": 8.030933582514521,
+      "p_one_sided_belief_higher": 1.897035552908653e-13,
+      "cohens_d": 1.269802092914084
+    },
+    {
+      "model": "gpt-4.1",
+      "belief_vs": "constitutional",
+      "cos_belief_mean": 0.22780899530097326,
+      "cos_other_mean": 0.16865840069725194,
+      "t": 5.921510337730172,
+      "p_one_sided_belief_higher": 1.0960511307227904e-08,
+      "cohens_d": 0.9362729927730119
+    }
+  ]
+}

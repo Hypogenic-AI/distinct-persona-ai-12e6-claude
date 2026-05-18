@@ -1,0 +1,1 @@
+{"content": "There are 20 members total.\n\n- Number of ways to choose a president: 20\n- After choosing the president, number of ways to choose a vice-president: 19 (since it can't be the same person)\n\nTotal number of ways = 20 \u00d7 19 = 380\n\nThe correct answer is (A) 380.", "in": 70, "out": 69}

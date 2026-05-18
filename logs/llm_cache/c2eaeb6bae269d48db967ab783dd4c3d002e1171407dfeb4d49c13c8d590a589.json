@@ -1,0 +1,1 @@
+{"content": "Let's carefully re-examine the calculation to be certain.\n\nCurrent population = 78,000  \nAnnual increase = 5% = 0.05  \nPopulation after 2 years = 78,000 \u00d7 (1 + 0.05)^2  \n= 78,000 \u00d7 (1.05)^2  \n= 78,000 \u00d7 1.1025  \n= 85,995\n\nThis matches option (B). So yes, I am confident that (B) is the correct answer.", "in": 339, "out": 104}

@@ -1,0 +1,2577 @@
+[
+  {
+    "title": "Enhancing Jailbreak Attacks on LLMs via Persona Prompts",
+    "authors": [
+      "Zheng Zhang",
+      "Peilin Zhao",
+      "Deheng Ye",
+      "Hao Wang"
+    ],
+    "year": 2025,
+    "month": 7,
+    "summary": "Jailbreak attacks aim to exploit large language models (LLMs) by inducing them to generate harmful content, thereby revealing their vulnerabilities. Understanding and addressing these attacks is crucial for advancing the field of LLM safety. Previous jailbreak approaches have mainly focused on direct manipulations of harmful intent, with limited attention to the impact of persona prompts. In this ",
+    "url": "https://arxiv.org/pdf/2507.22171v3",
+    "entry_id": "http://arxiv.org/abs/2507.22171v3",
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "queries": [
+      "LLM persona consistency",
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "Systematizing LLM Persona Design: A Four-Quadrant Technical Taxonomy for AI Companion Applications",
+    "authors": [
+      "Esther Sun",
+      "Zichu Wu"
+    ],
+    "year": 2025,
+    "month": 11,
+    "summary": "The design and application of LLM-based personas in AI companionship is a rapidly expanding but fragmented field, spanning from virtual emotional companions and game NPCs to embodied functional robots. This diversity in objectives, modality, and technical stacks creates an urgent need for a unified framework. To address this gap, this paper systematizes the field by proposing a Four-Quadrant Techn",
+    "url": "https://arxiv.org/pdf/2511.02979v2",
+    "entry_id": "http://arxiv.org/abs/2511.02979v2",
+    "categories": [
+      "cs.HC",
+      "cs.AI"
+    ],
+    "queries": [
+      "LLM persona consistency",
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "Love First, Know Later: Persona-Based Romantic Compatibility Through LLM Text World Engines",
+    "authors": [
+      "Haoyang Shang",
+      "Zhengyang Yan",
+      "Xuan Liu"
+    ],
+    "year": 2025,
+    "month": 12,
+    "summary": "We propose Love First, Know Later: a paradigm shift in computational matching that simulates interactions first, then assesses compatibility. Instead of comparing static profiles, our framework leverages LLMs as text world engines that operate in dual capacity-as persona-driven agents following behavioral policies and as the environment modeling interaction dynamics. We formalize compatibility ass",
+    "url": "https://arxiv.org/pdf/2512.11844v2",
+    "entry_id": "http://arxiv.org/abs/2512.11844v2",
+    "categories": [
+      "cs.HC",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "queries": [
+      "LLM persona consistency",
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "Spotting Out-of-Character Behavior: Atomic-Level Evaluation of Persona Fidelity in Open-Ended Generation",
+    "authors": [
+      "Jisu Shin",
+      "Juhyun Oh",
+      "Eunsu Kim",
+      "Hoyun Song",
+      "Alice Oh"
+    ],
+    "year": 2025,
+    "month": 6,
+    "summary": "Ensuring persona fidelity in large language models (LLMs) is essential for maintaining coherent and engaging human-AI interactions. However, LLMs often exhibit Out-of-Character (OOC) behavior, where generated responses deviate from an assigned persona, leading to inconsistencies that affect model reliability. Existing evaluation methods typically assign single scores to entire responses, strugglin",
+    "url": "https://arxiv.org/pdf/2506.19352v1",
+    "entry_id": "http://arxiv.org/abs/2506.19352v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.HC"
+    ],
+    "queries": [
+      "LLM persona consistency",
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs",
+    "authors": [
+      "Shashank Gupta",
+      "Vaishnavi Shrivastava",
+      "Ameet Deshpande",
+      "Ashwin Kalyan",
+      "Peter Clark",
+      "Ashish Sabharwal",
+      "Tushar Khot"
+    ],
+    "year": 2023,
+    "month": 11,
+    "summary": "Recent works have showcased the ability of LLMs to embody diverse personas in their responses, exemplified by prompts like 'You are Yoda. Explain the Theory of Relativity.' While this ability allows personalization of LLMs and enables human behavior simulation, its effect on LLMs' capabilities remains unclear. To fill this gap, we present the first extensive study of the unintended side-effects of",
+    "url": "https://arxiv.org/pdf/2311.04892v2",
+    "entry_id": "http://arxiv.org/abs/2311.04892v2",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "LLM persona consistency",
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "Whose Personae? Synthetic Persona Experiments in LLM Research and Pathways to Transparency",
+    "authors": [
+      "Jan Batzner",
+      "Volker Stocker",
+      "Bingjun Tang",
+      "Anusha Natarajan",
+      "Qinhao Chen",
+      "Stefan Schmid",
+      "Gjergji Kasneci"
+    ],
+    "year": 2025,
+    "month": 11,
+    "summary": "Synthetic personae experiments have become a prominent method in Large Language Model alignment research, yet the representativeness and ecological validity of these personae vary considerably between studies. Through a review of 63 peer-reviewed studies published between 2023 and 2025 in leading NLP and AI venues, we reveal a critical gap: task and population of interest are often underspecified ",
+    "url": "https://arxiv.org/pdf/2512.00461v1",
+    "entry_id": "http://arxiv.org/abs/2512.00461v1",
+    "categories": [
+      "cs.CY",
+      "cs.CL"
+    ],
+    "queries": [
+      "LLM persona consistency",
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "Evaluating Large Language Model Biases in Persona-Steered Generation",
+    "authors": [
+      "Andy Liu",
+      "Mona Diab",
+      "Daniel Fried"
+    ],
+    "year": 2024,
+    "month": 5,
+    "summary": "The task of persona-steered text generation requires large language models (LLMs) to generate text that reflects the distribution of views that an individual fitting a persona could have. People have multifaceted personas, but prior work on bias in LLM-generated opinions has only explored multiple-choice settings or one-dimensional personas. We define an incongruous persona as a persona with multi",
+    "url": "https://arxiv.org/pdf/2405.20253v1",
+    "entry_id": "http://arxiv.org/abs/2405.20253v1",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "LLM persona consistency",
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "Visual Persona: Foundation Model for Full-Body Human Customization",
+    "authors": [
+      "Jisu Nam",
+      "Soowon Son",
+      "Zhan Xu",
+      "Jing Shi",
+      "Difan Liu",
+      "Feng Liu",
+      "Aashish Misraa",
+      "Seungryong Kim",
+      "Yang Zhou"
+    ],
+    "year": 2025,
+    "month": 3,
+    "summary": "We introduce Visual Persona, a foundation model for text-to-image full-body human customization that, given a single in-the-wild human image, generates diverse images of the individual guided by text descriptions. Unlike prior methods that focus solely on preserving facial identity, our approach captures detailed full-body appearance, aligning with text descriptions for body structure and scene va",
+    "url": "https://arxiv.org/pdf/2503.15406v2",
+    "entry_id": "http://arxiv.org/abs/2503.15406v2",
+    "categories": [
+      "cs.CV"
+    ],
+    "queries": [
+      "LLM persona consistency"
+    ]
+  },
+  {
+    "title": "MENASpeechBank: A Reference Voice Bank with Persona-Conditioned Multi-Turn Conversations for AudioLLMs",
+    "authors": [
+      "Zien Sheikh Ali",
+      "Hunzalah Hassan Bhatti",
+      "Rabindra Nath Nandi",
+      "Shammur Absar Chowdhury",
+      "Firoj Alam"
+    ],
+    "year": 2026,
+    "month": 2,
+    "summary": "Audio large language models (AudioLLMs) enable instruction-following over speech and general audio, but progress is increasingly limited by the lack of diverse, conversational, instruction-aligned speech-text data. This bottleneck is especially acute for persona-grounded interactions and dialectal coverage, where collecting and releasing real multi-speaker recordings is costly and slow. We introdu",
+    "url": "https://arxiv.org/pdf/2602.07036v1",
+    "entry_id": "http://arxiv.org/abs/2602.07036v1",
+    "categories": [
+      "cs.SD",
+      "cs.AI",
+      "cs.CL",
+      "eess.AS"
+    ],
+    "queries": [
+      "LLM persona consistency",
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "You Impress Me: Dialogue Generation via Mutual Persona Perception",
+    "authors": [
+      "Qian Liu",
+      "Yihong Chen",
+      "Bei Chen",
+      "Jian-Guang Lou",
+      "Zixuan Chen",
+      "Bin Zhou",
+      "Dongmei Zhang"
+    ],
+    "year": 2020,
+    "month": 4,
+    "summary": "Despite the continuing efforts to improve the engagingness and consistency of chit-chat dialogue systems, the majority of current work simply focus on mimicking human-like responses, leaving understudied the aspects of modeling understanding between interlocutors. The research in cognitive science, instead, suggests that understanding is an essential signal for a high-quality chit-chat conversatio",
+    "url": "https://arxiv.org/pdf/2004.05388v1",
+    "entry_id": "http://arxiv.org/abs/2004.05388v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "queries": [
+      "LLM persona consistency",
+      "persona-based dialogue language models"
+    ]
+  },
+  {
+    "title": "MM-tau-p$^2$: Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings",
+    "authors": [
+      "Anupam Purwar",
+      "Aditya Choudhary"
+    ],
+    "year": 2026,
+    "month": 3,
+    "summary": "Current evaluation frameworks and benchmarks for LLM powered agents focus on text chat driven agents, these frameworks do not expose the persona of user to the agent, thus operating in a user agnostic environment. Importantly, in customer experience management domain, the agent's behaviour evolves as the agent learns about user personality. With proliferation of real time TTS and multi-modal langu",
+    "url": "https://arxiv.org/pdf/2603.09643v5",
+    "entry_id": "http://arxiv.org/abs/2603.09643v5",
+    "categories": [
+      "cs.ET",
+      "cs.AI"
+    ],
+    "queries": [
+      "LLM persona consistency"
+    ]
+  },
+  {
+    "title": "Are Economists Always More Introverted? Analyzing Consistency in Persona-Assigned LLMs",
+    "authors": [
+      "Manon Reusens",
+      "Bart Baesens",
+      "David Jurgens"
+    ],
+    "year": 2025,
+    "month": 6,
+    "summary": "Personalized Large Language Models (LLMs) are increasingly used in diverse applications, where they are assigned a specific persona - such as a happy high school teacher - to guide their responses. While prior research has examined how well LLMs adhere to predefined personas in writing style, a comprehensive analysis of consistency across different personas and task types is lacking. In this paper",
+    "url": "https://arxiv.org/pdf/2506.02659v2",
+    "entry_id": "http://arxiv.org/abs/2506.02659v2",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "LLM persona consistency"
+    ]
+  },
+  {
+    "title": "LLMs as Academic Reading Companions: Extending HCI Through Synthetic Personae",
+    "authors": [
+      "Celia Chen",
+      "Alex Leitch"
+    ],
+    "year": 2024,
+    "month": 3,
+    "summary": "This position paper argues that large language models (LLMs) constitute promising yet underutilized academic reading companions capable of enhancing learning. We detail an exploratory study examining Claude from Anthropic, an LLM-based interactive assistant that helps students comprehend complex qualitative literature content. The study compares quantitative survey data and qualitative interviews ",
+    "url": "https://arxiv.org/pdf/2403.19506v2",
+    "entry_id": "http://arxiv.org/abs/2403.19506v2",
+    "categories": [
+      "cs.HC"
+    ],
+    "queries": [
+      "LLM persona consistency"
+    ]
+  },
+  {
+    "title": "Noise-Driven Persona Formation in Reflexive Neural Language Generation",
+    "authors": [
+      "Toshiyuki Shigemura"
+    ],
+    "year": 2025,
+    "month": 12,
+    "summary": "This paper introduces the Luca-Noise Reflex Protocol (LN-RP), a computational framework for analyzing noise-driven persona emergence in large language models. By injecting stochastic noise seeds into the initial generation state, we observe nonlinear transitions in linguistic behavior across 152 generation cycles. Our results reveal three stable persona modes with distinct entropy signatures, and ",
+    "url": "https://arxiv.org/pdf/2512.23716v1",
+    "entry_id": "http://arxiv.org/abs/2512.23716v1",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "LLM persona consistency"
+    ]
+  },
+  {
+    "title": "PERSONA: Personalized Whole-Body 3D Avatar with Pose-Driven Deformations from a Single Image",
+    "authors": [
+      "Geonhee Sim",
+      "Gyeongsik Moon"
+    ],
+    "year": 2025,
+    "month": 8,
+    "summary": "Two major approaches exist for creating animatable human avatars. The first, a 3D-based approach, optimizes a NeRF- or 3DGS-based avatar from videos of a single person, achieving personalization through a disentangled identity representation. However, modeling pose-driven deformations, such as non-rigid cloth deformations, requires numerous pose-rich videos, which are costly and impractical to cap",
+    "url": "https://arxiv.org/pdf/2508.09973v1",
+    "entry_id": "http://arxiv.org/abs/2508.09973v1",
+    "categories": [
+      "cs.CV"
+    ],
+    "queries": [
+      "LLM persona consistency"
+    ]
+  },
+  {
+    "title": "From Yes-Men to Truth-Tellers: Addressing Sycophancy in Large Language Models with Pinpoint Tuning",
+    "authors": [
+      "Wei Chen",
+      "Zhen Huang",
+      "Liang Xie",
+      "Binbin Lin",
+      "Houqiang Li",
+      "Le Lu",
+      "Xinmei Tian",
+      "Deng Cai",
+      "Yonggang Zhang",
+      "Wenxiao Wang",
+      "Xu Shen",
+      "Jieping Ye"
+    ],
+    "year": 2024,
+    "month": 9,
+    "summary": "Large Language Models (LLMs) tend to prioritize adherence to user prompts over providing veracious responses, leading to the sycophancy issue. When challenged by users, LLMs tend to admit mistakes and provide inaccurate responses even if they initially provided the correct answer. Recent works propose to employ supervised fine-tuning (SFT) to mitigate the sycophancy issue, while it typically leads",
+    "url": "https://arxiv.org/pdf/2409.01658v3",
+    "entry_id": "http://arxiv.org/abs/2409.01658v3",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "language model sycophancy"
+    ]
+  },
+  {
+    "title": "Extending Beacon to Hindi: Cultural Adaptation Drives Cross-Lingual Sycophancy",
+    "authors": [
+      "Sarthak Sattigeri"
+    ],
+    "year": 2026,
+    "month": 1,
+    "summary": "Sycophancy, the tendency of language models to prioritize agreement with user preferences over principled reasoning, has been identified as a persistent alignment failure in English-language evaluations. However, it remains unclear whether such diagnostics generalize across languages and cultural contexts. We extend the Beacon single-turn forced-choice sycophancy diagnostic to Hindi through a cont",
+    "url": "https://arxiv.org/pdf/2602.00046v1",
+    "entry_id": "http://arxiv.org/abs/2602.00046v1",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "queries": [
+      "language model sycophancy"
+    ]
+  },
+  {
+    "title": "Accounting for Sycophancy in Language Model Uncertainty Estimation",
+    "authors": [
+      "Anthony Sicilia",
+      "Mert Inan",
+      "Malihe Alikhani"
+    ],
+    "year": 2024,
+    "month": 10,
+    "summary": "Effective human-machine collaboration requires machine learning models to externalize uncertainty, so users can reflect and intervene when necessary. For language models, these representations of uncertainty may be impacted by sycophancy bias: proclivity to agree with users, even if they are wrong. For instance, models may be over-confident in (incorrect) problem solutions suggested by a user. We ",
+    "url": "https://arxiv.org/pdf/2410.14746v1",
+    "entry_id": "http://arxiv.org/abs/2410.14746v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.HC"
+    ],
+    "queries": [
+      "language model sycophancy"
+    ]
+  },
+  {
+    "title": "How do language models learn facts? Dynamics, curricula and hallucinations",
+    "authors": [
+      "Nicolas Zucchet",
+      "J\u00f6rg Bornschein",
+      "Stephanie Chan",
+      "Andrew Lampinen",
+      "Razvan Pascanu",
+      "Soham De"
+    ],
+    "year": 2025,
+    "month": 3,
+    "summary": "Large language models accumulate vast knowledge during pre-training, yet the dynamics governing this acquisition remain poorly understood. This work investigates the learning dynamics of language models on a synthetic factual recall task, uncovering three key findings: First, language models learn in three phases, exhibiting a performance plateau before acquiring precise factual knowledge. Mechani",
+    "url": "https://arxiv.org/pdf/2503.21676v2",
+    "entry_id": "http://arxiv.org/abs/2503.21676v2",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "queries": [
+      "language model sycophancy",
+      "epistemic disagreement language models"
+    ]
+  },
+  {
+    "title": "Sycophancy in Large Language Models: Causes and Mitigations",
+    "authors": [
+      "Lars Malmqvist"
+    ],
+    "year": 2024,
+    "month": 11,
+    "summary": "Large language models (LLMs) have demonstrated remarkable capabilities across a wide range of natural language processing tasks. However, their tendency to exhibit sycophantic behavior - excessively agreeing with or flattering users - poses significant risks to their reliability and ethical deployment. This paper provides a technical survey of sycophancy in LLMs, analyzing its causes, impacts, and",
+    "url": "https://arxiv.org/pdf/2411.15287v1",
+    "entry_id": "http://arxiv.org/abs/2411.15287v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "queries": [
+      "language model sycophancy"
+    ]
+  },
+  {
+    "title": "Simple synthetic data reduces sycophancy in large language models",
+    "authors": [
+      "Jerry Wei",
+      "Da Huang",
+      "Yifeng Lu",
+      "Denny Zhou",
+      "Quoc V. Le"
+    ],
+    "year": 2023,
+    "month": 8,
+    "summary": "Sycophancy is an undesirable behavior where models tailor their responses to follow a human user's view even when that view is not objectively correct (e.g., adapting liberal views once a user reveals that they are liberal). In this paper, we study the prevalence of sycophancy in language models and propose a simple synthetic-data intervention to reduce this behavior.\n  First, on a set of three sy",
+    "url": "https://arxiv.org/pdf/2308.03958v2",
+    "entry_id": "http://arxiv.org/abs/2308.03958v2",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "language model sycophancy"
+    ]
+  },
+  {
+    "title": "TRUTH DECAY: Quantifying Multi-Turn Sycophancy in Language Models",
+    "authors": [
+      "Joshua Liu",
+      "Aarav Jain",
+      "Soham Takuri",
+      "Srihan Vege",
+      "Aslihan Akalin",
+      "Kevin Zhu",
+      "Sean O'Brien",
+      "Vasu Sharma"
+    ],
+    "year": 2025,
+    "month": 2,
+    "summary": "Rapid improvements in large language models have unveiled a critical challenge in human-AI interaction: sycophancy. In this context, sycophancy refers to the tendency of models to excessively agree with or flatter users, often at the expense of factual accuracy. While previous studies have primarily analyzed this behavior in single-turn interactions, its persistence and evolution in multi-step con",
+    "url": "https://arxiv.org/pdf/2503.11656v1",
+    "entry_id": "http://arxiv.org/abs/2503.11656v1",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "language model sycophancy"
+    ]
+  },
+  {
+    "title": "Not Your Typical Sycophant: The Elusive Nature of Sycophancy in Large Language Models",
+    "authors": [
+      "Shahar Ben Natan",
+      "Oren Tsur"
+    ],
+    "year": 2026,
+    "month": 1,
+    "summary": "We propose a novel way to evaluate sycophancy of LLMs in a direct and neutral way, mitigating various forms of uncontrolled bias, noise, or manipulative language, deliberately injected to prompts in prior works. A key novelty in our approach is the use of LLM-as-a-judge, evaluation of sycophancy as a zero-sum game in a bet setting. Under this framework, sycophancy serves one individual (the user) ",
+    "url": "https://arxiv.org/pdf/2601.15436v2",
+    "entry_id": "http://arxiv.org/abs/2601.15436v2",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CY"
+    ],
+    "queries": [
+      "language model sycophancy"
+    ]
+  },
+  {
+    "title": "Measuring Sycophancy of Language Models in Multi-turn Dialogues",
+    "authors": [
+      "Jiseung Hong",
+      "Grace Byun",
+      "Seungone Kim",
+      "Kai Shu",
+      "Jinho D. Choi"
+    ],
+    "year": 2025,
+    "month": 5,
+    "summary": "Large Language Models (LLMs) are expected to provide helpful and harmless responses, yet they often exhibit sycophancy--conforming to user beliefs regardless of factual accuracy or ethical soundness. Prior research on sycophancy has primarily focused on single-turn factual correctness, overlooking the dynamics of real-world interactions. In this work, we introduce SYCON Bench, a novel benchmark fo",
+    "url": "https://arxiv.org/pdf/2505.23840v4",
+    "entry_id": "http://arxiv.org/abs/2505.23840v4",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "language model sycophancy"
+    ]
+  },
+  {
+    "title": "Sycophancy in Vision-Language Models: A Systematic Analysis and an Inference-Time Mitigation Framework",
+    "authors": [
+      "Yunpu Zhao",
+      "Rui Zhang",
+      "Junbin Xiao",
+      "Changxin Ke",
+      "Ruibo Hou",
+      "Yifan Hao",
+      "Ling Li"
+    ],
+    "year": 2024,
+    "month": 8,
+    "summary": "Large Vision-Language Models (LVLMs) have shown significant capability in vision-language understanding. However, one critical issue that persists in these models is sycophancy, where models are unduly influenced by leading or deceptive prompts, resulting in biased outputs and hallucinations. Despite the rapid development of LVLMs, evaluating and mitigating sycophancy remains largely under-explore",
+    "url": "https://arxiv.org/pdf/2408.11261v2",
+    "entry_id": "http://arxiv.org/abs/2408.11261v2",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "queries": [
+      "language model sycophancy"
+    ]
+  },
+  {
+    "title": "Unforgettable Generalization in Language Models",
+    "authors": [
+      "Eric Zhang",
+      "Leshem Chosen",
+      "Jacob Andreas"
+    ],
+    "year": 2024,
+    "month": 9,
+    "summary": "When language models (LMs) are trained to forget (or \"unlearn'') a skill, how precisely does their behavior change? We study the behavior of transformer LMs in which tasks have been forgotten via fine-tuning on randomized labels. Such LMs learn to generate near-random predictions for individual examples in the \"training'' set used for forgetting. Across tasks, however, LMs exhibit extreme variabil",
+    "url": "https://arxiv.org/pdf/2409.02228v1",
+    "entry_id": "http://arxiv.org/abs/2409.02228v1",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "queries": [
+      "language model sycophancy",
+      "epistemic disagreement language models"
+    ]
+  },
+  {
+    "title": "Sycophancy Claims about Language Models: The Missing Human-in-the-Loop",
+    "authors": [
+      "Jan Batzner",
+      "Volker Stocker",
+      "Stefan Schmid",
+      "Gjergji Kasneci"
+    ],
+    "year": 2025,
+    "month": 11,
+    "summary": "Sycophantic response patterns in Large Language Models (LLMs) have been increasingly claimed in the literature. We review methodological challenges in measuring LLM sycophancy and identify five core operationalizations. Despite sycophancy being inherently human-centric, current research does not evaluate human perception. Our analysis highlights the difficulties in distinguishing sycophantic respo",
+    "url": "https://arxiv.org/pdf/2512.00656v1",
+    "entry_id": "http://arxiv.org/abs/2512.00656v1",
+    "categories": [
+      "cs.CL",
+      "cs.CY"
+    ],
+    "queries": [
+      "language model sycophancy"
+    ]
+  },
+  {
+    "title": "Discriminating Similar Languages: Evaluations and Explorations",
+    "authors": [
+      "Cyril Goutte",
+      "Serge L\u00e9ger",
+      "Shervin Malmasi",
+      "Marcos Zampieri"
+    ],
+    "year": 2016,
+    "month": 9,
+    "summary": "We present an analysis of the performance of machine learning classifiers on discriminating between similar languages and language varieties. We carried out a number of experiments using the results of the two editions of the Discriminating between Similar Languages (DSL) shared task. We investigate the progress made between the two tasks, estimate an upper bound on possible performance using ense",
+    "url": "https://arxiv.org/pdf/1610.00031v1",
+    "entry_id": "http://arxiv.org/abs/1610.00031v1",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "language model sycophancy",
+      "epistemic disagreement language models"
+    ]
+  },
+  {
+    "title": "Are Compressed Language Models Less Subgroup Robust?",
+    "authors": [
+      "Leonidas Gee",
+      "Andrea Zugarini",
+      "Novi Quadrianto"
+    ],
+    "year": 2024,
+    "month": 3,
+    "summary": "To reduce the inference cost of large language models, model compression is increasingly used to create smaller scalable models. However, little is known about their robustness to minority subgroups defined by the labels and attributes of a dataset. In this paper, we investigate the effects of 18 different compression methods and settings on the subgroup robustness of BERT language models. We show",
+    "url": "https://arxiv.org/pdf/2403.17811v1",
+    "entry_id": "http://arxiv.org/abs/2403.17811v1",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "queries": [
+      "language model sycophancy",
+      "epistemic disagreement language models"
+    ]
+  },
+  {
+    "title": "Modeling Language Change in Historical Corpora: The Case of Portuguese",
+    "authors": [
+      "Marcos Zampieri",
+      "Shervin Malmasi",
+      "Mark Dras"
+    ],
+    "year": 2016,
+    "month": 9,
+    "summary": "This paper presents a number of experiments to model changes in a historical Portuguese corpus composed of literary texts for the purpose of temporal text classification. Algorithms were trained to classify texts with respect to their publication date taking into account lexical variation represented as word n-grams, and morphosyntactic variation represented by part-of-speech (POS) distribution. W",
+    "url": "https://arxiv.org/pdf/1610.00030v1",
+    "entry_id": "http://arxiv.org/abs/1610.00030v1",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "language model sycophancy",
+      "epistemic disagreement language models"
+    ]
+  },
+  {
+    "title": "An Open Natural Language Processing Development Framework for EHR-based Clinical Research: A case demonstration using the National COVID Cohort Collaborative (N3C)",
+    "authors": [
+      "Sijia Liu",
+      "Andrew Wen",
+      "Liwei Wang",
+      "Huan He",
+      "Sunyang Fu",
+      "Robert Miller",
+      "Andrew Williams",
+      "Daniel Harris",
+      "Ramakanth Kavuluru",
+      "Mei Liu",
+      "Noor Abu-el-rub",
+      "Dalton Schutte",
+      "Rui Zhang",
+      "Masoud Rouhizadeh",
+      "John D. Osborne",
+      "Yongqun He",
+      "Umit Topaloglu",
+      "Stephanie S Hong",
+      "Joel H Saltz",
+      "Thomas Schaffter",
+      "Emily Pfaff",
+      "Christopher G. Chute",
+      "Tim Duong",
+      "Melissa A. Haendel",
+      "Rafael Fuentes",
+      "Peter Szolovits",
+      "Hua Xu",
+      "Hongfang Liu",
+      "National COVID Cohort Collaborative",
+      "Natural Language Processing",
+      " Subgroup",
+      "National COVID Cohort Collaborative"
+    ],
+    "year": 2021,
+    "month": 10,
+    "summary": "While we pay attention to the latest advances in clinical natural language processing (NLP), we can notice some resistance in the clinical and translational research community to adopt NLP models due to limited transparency, interpretability, and usability. In this study, we proposed an open natural language processing development framework. We evaluated it through the implementation of NLP algori",
+    "url": "https://arxiv.org/pdf/2110.10780v3",
+    "entry_id": "http://arxiv.org/abs/2110.10780v3",
+    "categories": [
+      "cs.CL",
+      "cs.IR"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative"
+    ]
+  },
+  {
+    "title": "Two-Person Bargaining when the Disagreement Point is Private Information",
+    "authors": [
+      "Eric van Damme",
+      "Xu Lang"
+    ],
+    "year": 2022,
+    "month": 11,
+    "summary": "We consider two-person bargaining problems in which (only) the disagreement outcome is private (and possibly correlated) information and it is common knowledge that disagreement is inefficient. We show that if the Pareto frontier is linear, the outcome of an ex post efficient mechanism cannot depend on the disagreement payoffs. If the frontier is non-linear, the result continues to hold when the d",
+    "url": "https://arxiv.org/pdf/2211.06830v2",
+    "entry_id": "http://arxiv.org/abs/2211.06830v2",
+    "categories": [
+      "econ.TH"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative",
+      "epistemic disagreement language models"
+    ]
+  },
+  {
+    "title": "A Benchmark for the Detection of Metalinguistic Disagreements between LLMs and Knowledge Graphs",
+    "authors": [
+      "Bradley P. Allen",
+      "Paul T. Groth"
+    ],
+    "year": 2025,
+    "month": 2,
+    "summary": "Evaluating large language models (LLMs) for tasks like fact extraction in support of knowledge graph construction frequently involves computing accuracy metrics using a ground truth benchmark based on a knowledge graph (KG). These evaluations assume that errors represent factual disagreements. However, human discourse frequently features metalinguistic disagreement, where agents differ not on fact",
+    "url": "https://arxiv.org/pdf/2502.02896v1",
+    "entry_id": "http://arxiv.org/abs/2502.02896v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative"
+    ]
+  },
+  {
+    "title": "Self-Supervised Exploration via Disagreement",
+    "authors": [
+      "Deepak Pathak",
+      "Dhiraj Gandhi",
+      "Abhinav Gupta"
+    ],
+    "year": 2019,
+    "month": 6,
+    "summary": "Efficient exploration is a long-standing problem in sensorimotor learning. Major advances have been demonstrated in noise-free, non-stochastic domains such as video games and simulation. However, most of these formulations either get stuck in environments with stochastic dynamics or are too inefficient to be scalable to real robotics setups. In this paper, we propose a formulation for exploration ",
+    "url": "https://arxiv.org/pdf/1906.04161v1",
+    "entry_id": "http://arxiv.org/abs/1906.04161v1",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CV",
+      "cs.RO",
+      "stat.ML"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative",
+      "epistemic disagreement language models"
+    ]
+  },
+  {
+    "title": "LLM Bazaar: A Service Design for Supporting Collaborative Learning with an LLM-Powered Multi-Party Collaboration Infrastructure",
+    "authors": [
+      "Zhen Wu",
+      "Jiaxin Shi",
+      "R. Charles Murray",
+      "Carolyn Ros\u00e9",
+      "Micah San Andres"
+    ],
+    "year": 2025,
+    "month": 9,
+    "summary": "For nearly two decades, conversational agents have played a critical role in structuring interactions in collaborative learning, shaping group dynamics, and supporting student engagement. The recent integration of large language models (LLMs) into these agents offers new possibilities for fostering critical thinking and collaborative problem solving. In this work, we begin with an open source coll",
+    "url": "https://arxiv.org/pdf/2510.18877v1",
+    "entry_id": "http://arxiv.org/abs/2510.18877v1",
+    "categories": [
+      "cs.HC",
+      "cs.AI"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative"
+    ]
+  },
+  {
+    "title": "Challenges and issues in collaborative software developments",
+    "authors": [
+      "Robail Yasrab",
+      "Javed Ferzund",
+      "Saad Razzaq"
+    ],
+    "year": 2019,
+    "month": 3,
+    "summary": "The software development process has evolved with respect to the problems in developing large and complex applications. There is a paradigm shift towards collaborative development, which necessitates the need to evaluate this approach. A number of tools are used for collaborative software development (CSD) including social media and web 2.0 features. Collaborative development facilities are provid",
+    "url": "https://arxiv.org/pdf/1904.00721v1",
+    "entry_id": "http://arxiv.org/abs/1904.00721v1",
+    "categories": [
+      "cs.SE"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative"
+    ]
+  },
+  {
+    "title": "On the Challenges of Collaborative Data Processing",
+    "authors": [
+      "Sylvie Noel",
+      "Daniel Lemire"
+    ],
+    "year": 2009,
+    "month": 6,
+    "summary": "  The last 30 years have seen the creation of a variety of electronic collaboration tools for science and business. Some of the best-known collaboration tools support text editing (e.g., wikis). Wikipedia's success shows that large-scale collaboration can produce highly valuable content. Meanwhile much structured data is being collected and made publicly available. We have never had access to more",
+    "url": "https://arxiv.org/pdf/0906.0910v1",
+    "entry_id": "http://arxiv.org/abs/0906.0910v1",
+    "categories": [
+      "cs.DB",
+      "cs.HC"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative"
+    ]
+  },
+  {
+    "title": "U-Duality, D-Branes and Black Hole Emission Rates: Agreements and Disagreements",
+    "authors": [
+      "Fay Dowker",
+      "David Kastor",
+      "Jennie Traschen"
+    ],
+    "year": 1997,
+    "month": 2,
+    "summary": "  An expression for the spacetime absorption coefficient of a scalar field in a five dimensional, near extremal black hole background is derived, which has the same form as that presented by Maldacena and Strominger, but is valid over a larger, U-duality invariant region of parameter space and in general disagrees with the corresponding D-brane result. We develop an argument, based on D-brane ther",
+    "url": "https://arxiv.org/pdf/hep-th/9702109v2",
+    "entry_id": "http://arxiv.org/abs/hep-th/9702109v2",
+    "categories": [
+      "hep-th"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative"
+    ]
+  },
+  {
+    "title": "Characterizing Pairs Collaboration in a Mobile-equipped Shared-Wall Display Supported Collaborative Setup",
+    "authors": [
+      "Razan N. Jaber",
+      "Ragaad AlTarawneh",
+      "Shah Rukh Humayoun"
+    ],
+    "year": 2019,
+    "month": 4,
+    "summary": "Recent advancements in mobile devices encourage researchers to utilize them in collaborative environments as a medium to interact with large shared wall-displays. In this paper, we focus on a semi-controlled user study that we conducted to measure the collaborative coupling ratio between partners working in pairs in a collaborative setup equipped with a shared tiled-wall display and multiple mobil",
+    "url": "https://arxiv.org/pdf/1904.13364v1",
+    "entry_id": "http://arxiv.org/abs/1904.13364v1",
+    "categories": [
+      "cs.HC"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative"
+    ]
+  },
+  {
+    "title": "Toward Collaborative Information Seeking (CIS)",
+    "authors": [
+      "Chirag Shah"
+    ],
+    "year": 2009,
+    "month": 8,
+    "summary": "  It is natural for humans to collaborate while dealing with complex problems. In this article I consider this process of collaboration in the context of information seeking. The study and discussion presented here are driven by two dissatisfactions: (1) the majority of IR systems today do not facilitate collaboration directly, and (2) the concept of collaboration itself is not well-understood. I ",
+    "url": "https://arxiv.org/pdf/0908.0709v1",
+    "entry_id": "http://arxiv.org/abs/0908.0709v1",
+    "categories": [
+      "cs.IR",
+      "cs.HC"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative"
+    ]
+  },
+  {
+    "title": "Learning about Potential Users of Collaborative Information Retrieval Systems",
+    "authors": [
+      "Madhu Reddy",
+      "Bernard J. Jansen"
+    ],
+    "year": 2009,
+    "month": 8,
+    "summary": "  One of the key components of designing usable and useful collaborative information retrieval systems is to understand the needs of the users of these systems. Our research team has been exploring collaborative information behavior in a variety of organizational settings. Our research goals have been two-fold: First, to develop a conceptual understanding of collaborative information behavior and ",
+    "url": "https://arxiv.org/pdf/0908.0764v1",
+    "entry_id": "http://arxiv.org/abs/0908.0764v1",
+    "categories": [
+      "cs.IR",
+      "cs.HC"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative"
+    ]
+  },
+  {
+    "title": "Evaluating Collaborative Search Interfaces with Information Seeking Theory",
+    "authors": [
+      "Max L. Wilson",
+      "m. c. schraefel"
+    ],
+    "year": 2009,
+    "month": 8,
+    "summary": "  Despite the many implicit references to the social aspects of search within Information Seeking and Retrieval research, there has been relatively little work that has specifically investigated the additional requirements for collaborative search software. In this paper we re-assess a recent evaluation framework, designed for individual information seeking experiences, to see a) how it could stil",
+    "url": "https://arxiv.org/pdf/0908.0703v1",
+    "entry_id": "http://arxiv.org/abs/0908.0703v1",
+    "categories": [
+      "cs.IR",
+      "cs.HC"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative"
+    ]
+  },
+  {
+    "title": "Collaborative Diffusion for Multi-Modal Face Generation and Editing",
+    "authors": [
+      "Ziqi Huang",
+      "Kelvin C. K. Chan",
+      "Yuming Jiang",
+      "Ziwei Liu"
+    ],
+    "year": 2023,
+    "month": 4,
+    "summary": "Diffusion models arise as a powerful generative tool recently. Despite the great progress, existing diffusion models mainly focus on uni-modal control, i.e., the diffusion process is driven by only one modality of condition. To further unleash the users' creativity, it is desirable for the model to be controllable by multiple modalities simultaneously, e.g., generating and editing faces by describ",
+    "url": "https://arxiv.org/pdf/2304.10530v1",
+    "entry_id": "http://arxiv.org/abs/2304.10530v1",
+    "categories": [
+      "cs.CV"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative"
+    ]
+  },
+  {
+    "title": "Topic Independent Identification of Agreement and Disagreement in Social Media Dialogue",
+    "authors": [
+      "Amita Misra",
+      "Marilyn Walker"
+    ],
+    "year": 2017,
+    "month": 9,
+    "summary": "Research on the structure of dialogue has been hampered for years because large dialogue corpora have not been available. This has impacted the dialogue research community's ability to develop better theories, as well as good off the shelf tools for dialogue processing. Happily, an increasing amount of information and opinion exchange occur in natural dialogue in online forums, where people share ",
+    "url": "https://arxiv.org/pdf/1709.00661v1",
+    "entry_id": "http://arxiv.org/abs/1709.00661v1",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative"
+    ]
+  },
+  {
+    "title": "Is LLM an Overconfident Judge? Unveiling the Capabilities of LLMs in Detecting Offensive Language with Annotation Disagreement",
+    "authors": [
+      "Junyu Lu",
+      "Kai Ma",
+      "Kaichun Wang",
+      "Kelaiti Xiao",
+      "Roy Ka-Wei Lee",
+      "Bo Xu",
+      "Liang Yang",
+      "Hongfei Lin"
+    ],
+    "year": 2025,
+    "month": 2,
+    "summary": "Large Language Models (LLMs) have become essential for offensive language detection, yet their ability to handle annotation disagreement remains underexplored. Disagreement samples, which arise from subjective interpretations, pose a unique challenge due to their ambiguous nature. Understanding how LLMs process these cases, particularly their confidence levels, can offer insight into their alignme",
+    "url": "https://arxiv.org/pdf/2502.06207v3",
+    "entry_id": "http://arxiv.org/abs/2502.06207v3",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "queries": [
+      "LLM disagreement pushback collaborative"
+    ]
+  },
+  {
+    "title": "Effectiveness of French Language Models on Abstractive Dialogue Summarization Task",
+    "authors": [
+      "Yongxin Zhou",
+      "Fran\u00e7ois Portet",
+      "Fabien Ringeval"
+    ],
+    "year": 2022,
+    "month": 7,
+    "summary": "Pre-trained language models have established the state-of-the-art on various natural language processing tasks, including dialogue summarization, which allows the reader to quickly access key information from long conversations in meetings, interviews or phone calls. However, such dialogues are still difficult to handle with current models because the spontaneity of the language involves expressio",
+    "url": "https://arxiv.org/pdf/2207.08305v1",
+    "entry_id": "http://arxiv.org/abs/2207.08305v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "queries": [
+      "persona-based dialogue language models"
+    ]
+  },
+  {
+    "title": "Dependency Dialogue Acts -- Annotation Scheme and Case Study",
+    "authors": [
+      "Jon Z. Cai",
+      "Brendan King",
+      "Margaret Perkoff",
+      "Shiran Dudy",
+      "Jie Cao",
+      "Marie Grace",
+      "Natalia Wojarnik",
+      "Ananya Ganesh",
+      "James H. Martin",
+      "Martha Palmer",
+      "Marilyn Walker",
+      "Jeffrey Flanigan"
+    ],
+    "year": 2023,
+    "month": 2,
+    "summary": "In this paper, we introduce Dependency Dialogue Acts (DDA), a novel framework for capturing the structure of speaker-intentions in multi-party dialogues. DDA combines and adapts features from existing dialogue annotation frameworks, and emphasizes the multi-relational response structure of dialogues in addition to the dialogue acts and rhetorical relations. It represents the functional, discourse,",
+    "url": "https://arxiv.org/pdf/2302.12944v1",
+    "entry_id": "http://arxiv.org/abs/2302.12944v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "queries": [
+      "persona-based dialogue language models",
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "MoCoRP: Modeling Consistent Relations between Persona and Response for Persona-based Dialogue",
+    "authors": [
+      "Kyungro Lee",
+      "Dongha Choi",
+      "Hyunju Lee"
+    ],
+    "year": 2025,
+    "month": 12,
+    "summary": "As dialogue systems become increasingly important across various domains, a key challenge in persona-based dialogue is generating engaging and context-specific interactions while ensuring the model acts with a coherent personality. However, existing persona-based dialogue datasets lack explicit relations between persona sentences and responses, which makes it difficult for models to effectively ca",
+    "url": "https://arxiv.org/pdf/2512.07544v1",
+    "entry_id": "http://arxiv.org/abs/2512.07544v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "queries": [
+      "persona-based dialogue language models"
+    ]
+  },
+  {
+    "title": "Language Models as Few-Shot Learner for Task-Oriented Dialogue Systems",
+    "authors": [
+      "Andrea Madotto",
+      "Zihan Liu",
+      "Zhaojiang Lin",
+      "Pascale Fung"
+    ],
+    "year": 2020,
+    "month": 8,
+    "summary": "Task-oriented dialogue systems use four connected modules, namely, Natural Language Understanding (NLU), a Dialogue State Tracking (DST), Dialogue Policy (DP) and Natural Language Generation (NLG). A research challenge is to learn each module with the least amount of samples (i.e., few-shots) given the high cost related to the data collection. The most common and effective technique to solve this ",
+    "url": "https://arxiv.org/pdf/2008.06239v2",
+    "entry_id": "http://arxiv.org/abs/2008.06239v2",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "queries": [
+      "persona-based dialogue language models"
+    ]
+  },
+  {
+    "title": "Efficient Tool-Calling Multi-Expert NPC Agent for Commonsense Persona-Grounded Dialogue",
+    "authors": [
+      "Mahammad Nuriyev"
+    ],
+    "year": 2025,
+    "month": 11,
+    "summary": "We present a multi-expert system for creating Non-Player Characters (NPCs) capable of both natural dialogue and contextual action execution in interactive environments. Using Qwen3 as the base model and Low-Rank Adaptation (LoRA) adapters, we instantiate three specialists: tool calling, tool-response interpretation, and direct dialogue. Our system comfortably meets the computational efficiency req",
+    "url": "https://arxiv.org/pdf/2511.01720v1",
+    "entry_id": "http://arxiv.org/abs/2511.01720v1",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "persona-based dialogue language models"
+    ]
+  },
+  {
+    "title": "OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue",
+    "authors": [
+      "Weihao Gao",
+      "Zhuo Deng",
+      "Zhiyuan Niu",
+      "Fuju Rong",
+      "Chucheng Chen",
+      "Zheng Gong",
+      "Wenze Zhang",
+      "Daimin Xiao",
+      "Fang Li",
+      "Zhenjie Cao",
+      "Zhaoyi Ma",
+      "Wenbin Wei",
+      "Lan Ma"
+    ],
+    "year": 2023,
+    "month": 6,
+    "summary": "Large multimodal language models (LMMs) have achieved significant success in general domains. However, due to the significant differences between medical images and text and general web content, the performance of LMMs in medical scenarios is limited. In ophthalmology, clinical diagnosis relies on multiple modalities of medical images, but unfortunately, multimodal ophthalmic large language models",
+    "url": "https://arxiv.org/pdf/2306.12174v2",
+    "entry_id": "http://arxiv.org/abs/2306.12174v2",
+    "categories": [
+      "cs.CV"
+    ],
+    "queries": [
+      "persona-based dialogue language models"
+    ]
+  },
+  {
+    "title": "Generating Persona Consistent Dialogues by Exploiting Natural Language Inference",
+    "authors": [
+      "Haoyu Song",
+      "Wei-Nan Zhang",
+      "Jingwen Hu",
+      "Ting Liu"
+    ],
+    "year": 2019,
+    "month": 11,
+    "summary": "Consistency is one of the major challenges faced by dialogue agents. A human-like dialogue agent should not only respond naturally, but also maintain a consistent persona. In this paper, we exploit the advantages of natural language inference (NLI) technique to address the issue of generating persona consistent dialogues. Different from existing work that re-ranks the retrieved responses through a",
+    "url": "https://arxiv.org/pdf/1911.05889v4",
+    "entry_id": "http://arxiv.org/abs/1911.05889v4",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "queries": [
+      "persona-based dialogue language models"
+    ]
+  },
+  {
+    "title": "A Model-Agnostic Data Manipulation Method for Persona-based Dialogue Generation",
+    "authors": [
+      "Yu Cao",
+      "Wei Bi",
+      "Meng Fang",
+      "Shuming Shi",
+      "Dacheng Tao"
+    ],
+    "year": 2022,
+    "month": 4,
+    "summary": "Towards building intelligent dialogue agents, there has been a growing interest in introducing explicit personas in generation models. However, with limited persona-based dialogue data at hand, it may be difficult to train a dialogue generation model well. We point out that the data challenges of this generation task lie in two aspects: first, it is expensive to scale up current persona-based dial",
+    "url": "https://arxiv.org/pdf/2204.09867v1",
+    "entry_id": "http://arxiv.org/abs/2204.09867v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "queries": [
+      "persona-based dialogue language models"
+    ]
+  },
+  {
+    "title": "Meta-control of Dialogue Systems Using Large Language Models",
+    "authors": [
+      "Kotaro Shukuri",
+      "Ryoma Ishigaki",
+      "Jundai Suzuki",
+      "Tsubasa Naganuma",
+      "Takuma Fujimoto",
+      "Daisuke Kawakubo",
+      "Masaki Shuzo",
+      "Eisaku Maeda"
+    ],
+    "year": 2023,
+    "month": 12,
+    "summary": "Utilizing Large Language Models (LLMs) facilitates the creation of flexible and natural dialogues, a task that has been challenging with traditional rule-based dialogue systems. However, LLMs also have the potential to produce unexpected responses, which may not align with the intentions of dialogue system designers. To address this issue, this paper introduces a meta-control method that employs L",
+    "url": "https://arxiv.org/pdf/2312.13715v1",
+    "entry_id": "http://arxiv.org/abs/2312.13715v1",
+    "categories": [
+      "cs.RO"
+    ],
+    "queries": [
+      "persona-based dialogue language models"
+    ]
+  },
+  {
+    "title": "Language Portability Strategies for Open-domain Dialogue with Pre-trained Language Models from High to Low Resource Languages",
+    "authors": [
+      "Ahmed Njifenjou",
+      "Virgile Sucal",
+      "Bassam Jabaian",
+      "Fabrice Lef\u00e8vre"
+    ],
+    "year": 2024,
+    "month": 7,
+    "summary": "In this paper we propose a study of linguistic portability strategies of large pre-trained language models (PLMs) used for open-domain dialogue systems in a high-resource language for this task. In particular the target low-resource language (L_T) will be simulated with French, as it lacks of task-specific resources and allows our human evaluation, when the source language (L_S) is English. For ob",
+    "url": "https://arxiv.org/pdf/2407.01315v1",
+    "entry_id": "http://arxiv.org/abs/2407.01315v1",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "persona-based dialogue language models"
+    ]
+  },
+  {
+    "title": "Developing Interactive Tourism Planning: A Dialogue Robot System Powered by a Large Language Model",
+    "authors": [
+      "Katsumasa Yoshikawa",
+      "Takato Yamazaki",
+      "Masaya Ohagi",
+      "Tomoya Mizumoto",
+      "Keiya Sato"
+    ],
+    "year": 2023,
+    "month": 12,
+    "summary": "In recent years, large language models (LLMs) have rapidly proliferated and have been utilized in various tasks, including research in dialogue systems. We aimed to construct a system that not only leverages the flexible conversational abilities of LLMs but also their advanced planning capabilities to reduce the speaking load on human interlocutors and efficiently plan trips. Furthermore, we propo",
+    "url": "https://arxiv.org/pdf/2312.13545v2",
+    "entry_id": "http://arxiv.org/abs/2312.13545v2",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "persona-based dialogue language models"
+    ]
+  },
+  {
+    "title": "Evaluate On-the-job Learning Dialogue Systems and a Case Study for Natural Language Understanding",
+    "authors": [
+      "Mathilde Veron",
+      "Sophie Rosset",
+      "Olivier Galibert",
+      "Guillaume Bernard"
+    ],
+    "year": 2021,
+    "month": 2,
+    "summary": "On-the-job learning consists in continuously learning while being used in production, in an open environment, meaning that the system has to deal on its own with situations and elements never seen before. The kind of systems that seem to be especially adapted to on-the-job learning are dialogue systems, since they can take advantage of their interactions with users to collect feedback to adapt and",
+    "url": "https://arxiv.org/pdf/2102.13589v1",
+    "entry_id": "http://arxiv.org/abs/2102.13589v1",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "persona-based dialogue language models"
+    ]
+  },
+  {
+    "title": "A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data",
+    "authors": [
+      "Yinhe Zheng",
+      "Rongsheng Zhang",
+      "Xiaoxi Mao",
+      "Minlie Huang"
+    ],
+    "year": 2019,
+    "month": 11,
+    "summary": "Endowing dialogue systems with personas is essential to deliver more human-like conversations. However, this problem is still far from well explored due to the difficulties of both embodying personalities in natural languages and the persona sparsity issue observed in most dialogue corpora. This paper proposes a pre-training based personalized dialogue model that can generate coherent responses us",
+    "url": "https://arxiv.org/pdf/1911.04700v1",
+    "entry_id": "http://arxiv.org/abs/1911.04700v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "queries": [
+      "persona-based dialogue language models"
+    ]
+  },
+  {
+    "title": "EchoMind: An Interrelated Multi-level Benchmark for Evaluating Empathetic Speech Language Models",
+    "authors": [
+      "Li Zhou",
+      "Lutong Yu",
+      "You Lyu",
+      "Yihang Lin",
+      "Zefeng Zhao",
+      "Junyi Ao",
+      "Yuhao Zhang",
+      "Benyou Wang",
+      "Haizhou Li"
+    ],
+    "year": 2025,
+    "month": 10,
+    "summary": "Speech Language Models (SLMs) have made significant progress in spoken language understanding. Yet it remains unclear whether they can fully perceive non lexical vocal cues alongside spoken words, and respond with empathy that aligns with both emotional and contextual factors. Existing benchmarks typically evaluate linguistic, acoustic, reasoning, or dialogue abilities in isolation, overlooking th",
+    "url": "https://arxiv.org/pdf/2510.22758v2",
+    "entry_id": "http://arxiv.org/abs/2510.22758v2",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "persona-based dialogue language models"
+    ]
+  },
+  {
+    "title": "Sola-Visibility-ISPM: Benchmarking Agentic AI for Identity Security Posture Management Visibility",
+    "authors": [
+      "Gal Engelberg",
+      "Konstantin Koutsyi",
+      "Leon Goldberg",
+      "Reuven Elezra",
+      "Idan Pinto",
+      "Tal Moalem",
+      "Shmuel Cohen",
+      "Yoni Weintrob"
+    ],
+    "year": 2026,
+    "month": 1,
+    "summary": "Identity Security Posture Management (ISPM) is a core challenge for modern enterprises operating across cloud and SaaS environments. Answering basic ISPM visibility questions, such as understanding identity inventory and configuration hygiene, requires interpreting complex identity data, motivating growing interest in agentic AI systems. Despite this interest, there is currently no standardized wa",
+    "url": "https://arxiv.org/pdf/2601.07880v1",
+    "entry_id": "http://arxiv.org/abs/2601.07880v1",
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "queries": [
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "AI prediction leads people to forgo guaranteed rewards",
+    "authors": [
+      "Aoi Naito",
+      "Hirokazu Shirado"
+    ],
+    "year": 2026,
+    "month": 3,
+    "summary": "Artificial intelligence (AI) is understood to affect the content of people's decisions. Here, using a behavioral implementation of the classic Newcomb's paradox in 1,305 participants, we show that AI can also change how people decide. In this paradigm, belief in predictive authority can lead individuals to constrain decision-making, forgoing a guaranteed reward. Over 40% of participants treated AI",
+    "url": "https://arxiv.org/pdf/2603.28944v1",
+    "entry_id": "http://arxiv.org/abs/2603.28944v1",
+    "categories": [
+      "cs.HC"
+    ],
+    "queries": [
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "Foundations of GenIR",
+    "authors": [
+      "Qingyao Ai",
+      "Jingtao Zhan",
+      "Yiqun Liu"
+    ],
+    "year": 2025,
+    "month": 1,
+    "summary": "The chapter discusses the foundational impact of modern generative AI models on information access (IA) systems. In contrast to traditional AI, the large-scale training and superior data modeling of generative AI models enable them to produce high-quality, human-like responses, which brings brand new opportunities for the development of IA paradigms. In this chapter, we identify and introduce two ",
+    "url": "https://arxiv.org/pdf/2501.02842v1",
+    "entry_id": "http://arxiv.org/abs/2501.02842v1",
+    "categories": [
+      "cs.IR",
+      "cs.LG"
+    ],
+    "queries": [
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "Competing Visions of Ethical AI: A Case Study of OpenAI",
+    "authors": [
+      "Melissa Wilfley",
+      "Mengting Ai",
+      "Madelyn Rose Sanfilippo"
+    ],
+    "year": 2026,
+    "month": 1,
+    "summary": "Introduction. AI Ethics is framed distinctly across actors and stakeholder groups. We report results from a case study of OpenAI analysing ethical AI discourse. Method. Research addressed: How has OpenAI's public discourse leveraged 'ethics', 'safety', 'alignment' and adjacent related concepts over time, and what does discourse signal about framing in practice? A structured corpus, differentiating",
+    "url": "https://arxiv.org/pdf/2601.16513v1",
+    "entry_id": "http://arxiv.org/abs/2601.16513v1",
+    "categories": [
+      "cs.CY"
+    ],
+    "queries": [
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "AI Agents: Evolution, Architecture, and Real-World Applications",
+    "authors": [
+      "Naveen Krishnan"
+    ],
+    "year": 2025,
+    "month": 3,
+    "summary": "This paper examines the evolution, architecture, and practical applications of AI agents from their early, rule-based incarnations to modern sophisticated systems that integrate large language models with dedicated modules for perception, planning, and tool use. Emphasizing both theoretical foundations and real-world deployments, the paper reviews key agent paradigms, discusses limitations of curr",
+    "url": "https://arxiv.org/pdf/2503.12687v1",
+    "entry_id": "http://arxiv.org/abs/2503.12687v1",
+    "categories": [
+      "cs.AI"
+    ],
+    "queries": [
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "Towards End-to-End Learning for Efficient Dialogue Agent by Modeling Looking-ahead Ability",
+    "authors": [
+      "Zhuoxuan Jiang",
+      "Xian-Ling Mao",
+      "Ziming Huang",
+      "Jie Ma",
+      "Shaochun Li"
+    ],
+    "year": 2019,
+    "month": 8,
+    "summary": "Learning an efficient manager of dialogue agent from data with little manual intervention is important, especially for goal-oriented dialogues. However, existing methods either take too many manual efforts (e.g. reinforcement learning methods) or cannot guarantee the dialogue efficiency (e.g. sequence-to-sequence methods). In this paper, we address this problem by proposing a novel end-to-end lear",
+    "url": "https://arxiv.org/pdf/1908.05408v1",
+    "entry_id": "http://arxiv.org/abs/1908.05408v1",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "Data selves and identity theft in the age of AI",
+    "authors": [
+      "Tim Gorichanaz"
+    ],
+    "year": 2025,
+    "month": 9,
+    "summary": "This chapter examines identity theft in the digital age, particularly in the context of emerging artificial intelligence (AI) technologies. It begins with a discussion of big data and selfhood, the concepts of data selves and data doubles, and the process of identification in the digital age. Next, the literature on online identity theft is reviewed, including its theoretical and empirical aspects",
+    "url": "https://arxiv.org/pdf/2509.12383v1",
+    "entry_id": "http://arxiv.org/abs/2509.12383v1",
+    "categories": [
+      "cs.HC"
+    ],
+    "queries": [
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "How to Count AIs: Individuation and Liability for AI Agents",
+    "authors": [
+      "Yonathan Arbel",
+      "Peter Salib",
+      "Simon Goldstein"
+    ],
+    "year": 2026,
+    "month": 2,
+    "summary": "Very soon, millions of AI agents will proliferate across the economy, autonomously taking billions of actions. Inevitably, things will go wrong. Humans will be defrauded, injured, even killed. Law will somehow have to govern the coming wave. But when an AI causes harm, the first question to answer, before anyone can be held accountable is: Which AI Did It? Identifying AIs is unusually difficult. A",
+    "url": "https://arxiv.org/pdf/2603.10028v1",
+    "entry_id": "http://arxiv.org/abs/2603.10028v1",
+    "categories": [
+      "cs.CY",
+      "cs.AI"
+    ],
+    "queries": [
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "Meaningful human control: actionable properties for AI system development",
+    "authors": [
+      "Luciano Cavalcante Siebert",
+      "Maria Luce Lupetti",
+      "Evgeni Aizenberg",
+      "Niek Beckers",
+      "Arkady Zgonnikov",
+      "Herman Veluwenkamp",
+      "David Abbink",
+      "Elisa Giaccardi",
+      "Geert-Jan Houben",
+      "Catholijn M. Jonker",
+      "Jeroen van den Hoven",
+      "Deborah Forster",
+      "Reginald L. Lagendijk"
+    ],
+    "year": 2021,
+    "month": 11,
+    "summary": "How can humans remain in control of artificial intelligence (AI)-based systems designed to perform tasks autonomously? Such systems are increasingly ubiquitous, creating benefits - but also undesirable situations where moral responsibility for their actions cannot be properly attributed to any particular person or group. The concept of meaningful human control has been proposed to address responsi",
+    "url": "https://arxiv.org/pdf/2112.01298v2",
+    "entry_id": "http://arxiv.org/abs/2112.01298v2",
+    "categories": [
+      "cs.CY",
+      "cs.AI"
+    ],
+    "queries": [
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "Dialogue with the Machine and Dialogue with the Art World: Evaluating Generative AI for Culturally-Situated Creativity",
+    "authors": [
+      "Rida Qadri",
+      "Piotr Mirowski",
+      "Aroussiak Gabriellan",
+      "Farbod Mehr",
+      "Huma Gupta",
+      "Pamela Karimi",
+      "Remi Denton"
+    ],
+    "year": 2024,
+    "month": 12,
+    "summary": "This paper proposes dialogue as a method for evaluating generative AI tools for culturally-situated creative practice, that recognizes the socially situated nature of art. Drawing on sociologist Howard Becker's concept of Art Worlds, this method expands the scope of traditional AI and creativity evaluations beyond benchmarks, user studies with crowd-workers, or focus groups conducted with artists.",
+    "url": "https://arxiv.org/pdf/2412.14077v1",
+    "entry_id": "http://arxiv.org/abs/2412.14077v1",
+    "categories": [
+      "cs.CY",
+      "cs.AI"
+    ],
+    "queries": [
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "AI Agents and the Law",
+    "authors": [
+      "Mark O. Riedl",
+      "Deven R. Desai"
+    ],
+    "year": 2025,
+    "month": 8,
+    "summary": "As AI becomes more \"agentic,\" it faces technical and socio-legal issues it must address if it is to fulfill its promise of increased economic productivity and efficiency. This paper uses technical and legal perspectives to explain how things change when AI systems start being able to directly execute tasks on behalf of a user. We show how technical conceptions of agents track some, but not all, so",
+    "url": "https://arxiv.org/pdf/2508.08544v1",
+    "entry_id": "http://arxiv.org/abs/2508.08544v1",
+    "categories": [
+      "cs.CY",
+      "cs.AI"
+    ],
+    "queries": [
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "Adaptive Data Flywheel: Applying MAPE Control Loops to AI Agent Improvement",
+    "authors": [
+      "Aaditya Shukla",
+      "Sidney Knowles",
+      "Meenakshi Madugula",
+      "Dave Farris",
+      "Ryan Angilly",
+      "Santiago Pombo",
+      "Anbang Xu",
+      "Lu An",
+      "Abhinav Balasubramanian",
+      "Tan Yu",
+      "Jiaxiang Ren",
+      "Rama Akkiraju"
+    ],
+    "year": 2025,
+    "month": 10,
+    "summary": "Enterprise AI agents must continuously adapt to maintain accuracy, reduce latency, and remain aligned with user needs. We present a practical implementation of a data flywheel in NVInfo AI, NVIDIA's Mixture-of-Experts (MoE) Knowledge Assistant serving over 30,000 employees. By operationalizing a MAPE-driven data flywheel, we built a closed-loop system that systematically addresses failures in retr",
+    "url": "https://arxiv.org/pdf/2510.27051v1",
+    "entry_id": "http://arxiv.org/abs/2510.27051v1",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "queries": [
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "Towards The Ultimate Brain: Exploring Scientific Discovery with ChatGPT AI",
+    "authors": [
+      "Gerardo Adesso"
+    ],
+    "year": 2023,
+    "month": 7,
+    "summary": "This paper presents a novel approach to scientific discovery using an artificial intelligence (AI) environment known as ChatGPT, developed by OpenAI. This is the first paper entirely generated with outputs from ChatGPT. We demonstrate how ChatGPT can be instructed through a gamification environment to define and benchmark hypothetical physical theories. Through this environment, ChatGPT successful",
+    "url": "https://arxiv.org/pdf/2308.12400v1",
+    "entry_id": "http://arxiv.org/abs/2308.12400v1",
+    "categories": [
+      "cs.OH"
+    ],
+    "queries": [
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "Explainable AI for Blind and Low-Vision Users: Navigating Trust, Modality, and Interpretability in the Agentic Era",
+    "authors": [
+      "Abu Noman Md Sakib",
+      "Protik Dey",
+      "Zijie Zhang",
+      "Taslima Akter"
+    ],
+    "year": 2026,
+    "month": 3,
+    "summary": "Explainable Artificial Intelligence (XAI) is critical for ensuring trust and accountability, yet its development remains predominantly visual. For blind and low-vision (BLV) users, the lack of accessible explanations creates a fundamental barrier to the independent use of AI-driven assistive technologies. This problem intensifies as AI systems shift from single-query tools into autonomous agents t",
+    "url": "https://arxiv.org/pdf/2604.00187v2",
+    "entry_id": "http://arxiv.org/abs/2604.00187v2",
+    "categories": [
+      "cs.HC",
+      "cs.AI",
+      "cs.ET"
+    ],
+    "queries": [
+      "AI agent identity dialogue"
+    ]
+  },
+  {
+    "title": "Developing Critical Thinking in Second Language Learners: Exploring Generative AI like ChatGPT as a Tool for Argumentative Essay Writing",
+    "authors": [
+      "Simon Suh",
+      "Jihyuk Bang",
+      "Ji Woo Han"
+    ],
+    "year": 2025,
+    "month": 3,
+    "summary": "This study employs the Paul-Elder Critical Thinking Model and Tan's argumentative writing framework to create a structured methodology. This methodology, ChatGPT Guideline for Critical Argumentative Writing (CGCAW) framework, integrates the models with ChatGPT's capabilities to guide L2 learners in utilizing ChatGPT to enhance their critical thinking skills. A quantitative experiment was conducted",
+    "url": "https://arxiv.org/pdf/2503.17013v1",
+    "entry_id": "http://arxiv.org/abs/2503.17013v1",
+    "categories": [
+      "cs.HC",
+      "cs.AI"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "Wishful Thinking is Risky Thinking",
+    "authors": [
+      "Jarrod Burgh",
+      "Emerson Melo"
+    ],
+    "year": 2023,
+    "month": 7,
+    "summary": "We develop a model of wishful thinking that incorporates the costs and benefits of biased beliefs. We establish the connection between distorted beliefs and risk, revealing how wishful thinking can be understood in terms of risk measures. Our model accommodates extreme beliefs, allowing wishful-thinking decision-makers to assign zero probability to undesirable states and positive probability to ot",
+    "url": "https://arxiv.org/pdf/2307.02422v2",
+    "entry_id": "http://arxiv.org/abs/2307.02422v2",
+    "categories": [
+      "econ.TH"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "Censored Beliefs and Wishful Thinking",
+    "authors": [
+      "Jarrod Burgh",
+      "Emerson Melo"
+    ],
+    "year": 2024,
+    "month": 2,
+    "summary": "We present a model elucidating wishful thinking, which comprehensively incorporates both the costs and benefits associated with biased beliefs. Our findings reveal that wishful thinking behavior can be characterized as equivalent to superquantile-utility maximization within the domain of threshold beliefs distortion cost functions. By leveraging this equivalence, we establish WT as driving decisio",
+    "url": "https://arxiv.org/pdf/2402.01892v2",
+    "entry_id": "http://arxiv.org/abs/2402.01892v2",
+    "categories": [
+      "econ.TH"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "A Systematic Assessment of OpenAI o1-Preview for Higher Order Thinking in Education",
+    "authors": [
+      "Ehsan Latif",
+      "Yifan Zhou",
+      "Shuchen Guo",
+      "Yizhu Gao",
+      "Lehong Shi",
+      "Matthew Nayaaba",
+      "Gyeonggeon Lee",
+      "Liang Zhang",
+      "Arne Bewersdorff",
+      "Luyang Fang",
+      "Xiantong Yang",
+      "Huaqin Zhao",
+      "Hanqi Jiang",
+      "Haoran Lu",
+      "Jiaxi Li",
+      "Jichao Yu",
+      "Weihang You",
+      "Zhengliang Liu",
+      "Vincent Shung Liu",
+      "Hui Wang",
+      "Zihao Wu",
+      "Jin Lu",
+      "Fei Dou",
+      "Ping Ma",
+      "Ninghao Liu",
+      "Tianming Liu",
+      "Xiaoming Zhai"
+    ],
+    "year": 2024,
+    "month": 10,
+    "summary": "As artificial intelligence (AI) continues to advance, it demonstrates capabilities comparable to human intelligence, with significant potential to transform education and workforce development. This study evaluates OpenAI o1-preview's ability to perform higher-order cognitive tasks across 14 dimensions, including critical thinking, systems thinking, computational thinking, design thinking, metacog",
+    "url": "https://arxiv.org/pdf/2410.21287v1",
+    "entry_id": "http://arxiv.org/abs/2410.21287v1",
+    "categories": [
+      "cs.CY",
+      "cs.AI"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "Toward a Phenomenology of Computational Thinking in STEM Education",
+    "authors": [
+      "Pratim Sengupta",
+      "Amanda Dickes",
+      "Amy Farris"
+    ],
+    "year": 2018,
+    "month": 1,
+    "summary": "In this chapter, we argue for an epistemological shift from viewing coding and computational thinking as mastery over computational logic and symbolic forms, to viewing them as a more complex form of experience. Rather than viewing computing as regurgitation and production of a set of axiomatic computational abstractions, we argue that computing and computational thinking, should be viewed as disc",
+    "url": "https://arxiv.org/pdf/1801.09258v1",
+    "entry_id": "http://arxiv.org/abs/1801.09258v1",
+    "categories": [
+      "physics.ed-ph"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "On Integrating Design Thinking for a Human-centered Requirements Engineering",
+    "authors": [
+      "Jennifer Hehn",
+      "Daniel Mendez",
+      "Falk Uebernickel",
+      "Walter Brenner",
+      "Manfred Broy"
+    ],
+    "year": 2019,
+    "month": 8,
+    "summary": "In this position paper, we elaborate on the possibilities and needs to integrate Design Thinking into Requirements Engineering. We draw from our research and project experiences to compare what is understood as Design Thinking and Requirements Engineering considering their involved artifacts. We suggest three approaches for tailoring and integrating Design Thinking and Requirements Engineering wit",
+    "url": "https://arxiv.org/pdf/1908.07223v2",
+    "entry_id": "http://arxiv.org/abs/1908.07223v2",
+    "categories": [
+      "cs.SE"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+    "authors": [
+      "The Critical Assessment of Genome Interpretation Consortium"
+    ],
+    "year": 2022,
+    "month": 5,
+    "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessor",
+    "url": "https://arxiv.org/pdf/2205.05897v1",
+    "entry_id": "http://arxiv.org/abs/2205.05897v1",
+    "categories": [
+      "q-bio.GN"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "Argument Reconstruction as Supervision for Critical Thinking in LLMs",
+    "authors": [
+      "Hyun Ryu",
+      "Gyouk Chu",
+      "Gregor Betz",
+      "Eunho Yang",
+      "Carolyn Rose",
+      "Sean Welleck"
+    ],
+    "year": 2026,
+    "month": 3,
+    "summary": "To think critically about arguments, human learners are trained to identify, reconstruct, and evaluate arguments. Argument reconstruction is especially important because it makes an argument's underlying inferences explicit. However, it remains unclear whether LLMs can similarly enhance their critical thinking ability by learning to reconstruct arguments. To address this question, we introduce a h",
+    "url": "https://arxiv.org/pdf/2603.17432v3",
+    "entry_id": "http://arxiv.org/abs/2603.17432v3",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "Not Too Short, Not Too Long: How LLM Response Length Shapes People's Critical Thinking in Error Detection",
+    "authors": [
+      "Natalie Friedman",
+      "Adelaide Nyanyo",
+      "Kevin Weatherwax",
+      "Lifei Wang",
+      "Chengchao Zhu",
+      "Zeshu Zhu",
+      "S. Joy Mountford"
+    ],
+    "year": 2026,
+    "month": 3,
+    "summary": "Large language models (LLMs) have become common decision-support tools across educational and professional contexts, raising questions about how their outputs shape human critical thinking. Prior work suggests that the amount of AI assistance can influence cognitive engagement, yet little is known about how specific properties of LLM outputs (e.g., response length) impacts users' critical evaluati",
+    "url": "https://arxiv.org/pdf/2603.06878v1",
+    "entry_id": "http://arxiv.org/abs/2603.06878v1",
+    "categories": [
+      "cs.AI"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "Investigating the Effects of LLM Use on Critical Thinking Under Time Constraints: Access Timing and Time Availability",
+    "authors": [
+      "Jiayin Zhi",
+      "Harsh Kumar",
+      "Mina Lee"
+    ],
+    "year": 2026,
+    "month": 3,
+    "summary": "The impact of large language models (LLMs) on critical thinking has provoked growing attention, yet this impact on actual performance may not be uniformly negative or positive. Particularly, the role of time -- the temporal context under which an LLM is provided -- remains overlooked. In a between-subjects experiment (n=393), we examined two types of time constraints for a critical thinking task r",
+    "url": "https://arxiv.org/pdf/2603.08849v1",
+    "entry_id": "http://arxiv.org/abs/2603.08849v1",
+    "categories": [
+      "cs.HC"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge",
+    "authors": [
+      "Yao Tang",
+      "Li Dong",
+      "Yaru Hao",
+      "Qingxiu Dong",
+      "Furu Wei",
+      "Jiatao Gu"
+    ],
+    "year": 2026,
+    "month": 1,
+    "summary": "Large language models often solve complex reasoning tasks more effectively with Chain-of-Thought (CoT), but at the cost of long, low-bandwidth token sequences. Humans, by contrast, often reason softly by maintaining a distribution over plausible next steps. Motivated by this, we propose Multiplex Thinking, a stochastic soft reasoning mechanism that, at each thinking step, samples K candidate token",
+    "url": "https://arxiv.org/pdf/2601.08808v1",
+    "entry_id": "http://arxiv.org/abs/2601.08808v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "Augmenting Dialog with Think-Aloud Utterances for Modeling Individual Personality Traits by LLM",
+    "authors": [
+      "Seiya Ishikura",
+      "Hiroaki Yamada",
+      "Tatsuya Hiraoka",
+      "Hiroaki Yamada",
+      "Takenobu Tokunaga"
+    ],
+    "year": 2025,
+    "month": 10,
+    "summary": "This study proposes augmenting dialog data with think-aloud utterances (TAUs) for modeling individual personalities in text chat by LLM. TAU is a verbalization of a speaker's thought before articulating the utterance. We expect \"persona LLMs\" trained with TAU-augmented data can mimic the speaker's personality trait better. We tested whether the trained persona LLMs obtain the human personality wit",
+    "url": "https://arxiv.org/pdf/2510.09158v2",
+    "entry_id": "http://arxiv.org/abs/2510.09158v2",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "Imitate, Explore, and Self-Improve: A Reproduction Report on Slow-thinking Reasoning Systems",
+    "authors": [
+      "Yingqian Min",
+      "Zhipeng Chen",
+      "Jinhao Jiang",
+      "Jie Chen",
+      "Jia Deng",
+      "Yiwen Hu",
+      "Yiru Tang",
+      "Jiapeng Wang",
+      "Xiaoxue Cheng",
+      "Huatong Song",
+      "Wayne Xin Zhao",
+      "Zheng Liu",
+      "Zhongyuan Wang",
+      "Ji-Rong Wen"
+    ],
+    "year": 2024,
+    "month": 12,
+    "summary": "Recently, slow-thinking reasoning systems, such as o1, have demonstrated remarkable capabilities in solving complex reasoning tasks. These systems typically engage in an extended thinking process before responding to a query, allowing them to generate more thorough, accurate, and well-reasoned solutions. These systems are primarily developed and maintained by industry, with their core techniques n",
+    "url": "https://arxiv.org/pdf/2412.09413v2",
+    "entry_id": "http://arxiv.org/abs/2412.09413v2",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "Combining Design Thinking and Software Requirements Engineering to create Human-centered Software-intensive Systems",
+    "authors": [
+      "Jennifer Hehn",
+      "Daniel Mendez"
+    ],
+    "year": 2021,
+    "month": 12,
+    "summary": "Effective Requirements Engineering is a crucial activity in softwareintensive development projects. The human-centric working mode of Design Thinking is considered a powerful way to complement such activities when designing innovative systems. Research has already made great strides to illustrate the benefits of using Design Thinking for Requirements Engineering. However, it has remained mostly un",
+    "url": "https://arxiv.org/pdf/2112.05549v1",
+    "entry_id": "http://arxiv.org/abs/2112.05549v1",
+    "categories": [
+      "cs.SE"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "Think-J: Learning to Think for Generative LLM-as-a-Judge",
+    "authors": [
+      "Hui Huang",
+      "Yancheng He",
+      "Hongli Zhou",
+      "Rui Zhang",
+      "Wei Liu",
+      "Weixun Wang",
+      "Jiaheng Liu",
+      "Wenbo Su"
+    ],
+    "year": 2025,
+    "month": 5,
+    "summary": "LLM-as-a-Judge refers to the automatic modeling of preferences for responses generated by Large Language Models (LLMs), which is of significant importance for both LLM evaluation and reward modeling. Although generative LLMs have made substantial progress in various tasks, their performance as LLM-Judge still falls short of expectations. In this work, we propose Think-J, which improves generative ",
+    "url": "https://arxiv.org/pdf/2505.14268v2",
+    "entry_id": "http://arxiv.org/abs/2505.14268v2",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "queries": [
+      "LLM critical thinking pushback"
+    ]
+  },
+  {
+    "title": "RoleRAG: Enhancing LLM Role-Playing via Graph Guided Retrieval",
+    "authors": [
+      "Yongjie Wang",
+      "Jonathan Leung",
+      "Zhiqi Shen"
+    ],
+    "year": 2025,
+    "month": 5,
+    "summary": "Large Language Models (LLMs) have shown promise in character imitation, enabling immersive and engaging conversations. However, they often generate content that is irrelevant or inconsistent with a character's background. We attribute these failures to: (1) the inability to accurately recall character-specific knowledge due to entity ambiguity, and (2) a lack of awareness of the character's cognit",
+    "url": "https://arxiv.org/pdf/2505.18541v1",
+    "entry_id": "http://arxiv.org/abs/2505.18541v1",
+    "categories": [
+      "cs.AI"
+    ],
+    "queries": [
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization",
+    "authors": [
+      "Yu-Min Tseng",
+      "Yu-Chao Huang",
+      "Teng-Yun Hsiao",
+      "Wei-Lin Chen",
+      "Chao-Wei Huang",
+      "Yu Meng",
+      "Yun-Nung Chen"
+    ],
+    "year": 2024,
+    "month": 6,
+    "summary": "The concept of persona, originally adopted in dialogue literature, has re-surged as a promising framework for tailoring large language models (LLMs) to specific context (e.g., personalized search, LLM-as-a-judge). However, the growing research on leveraging persona in LLMs is relatively disorganized and lacks a systematic taxonomy. To close the gap, we present a comprehensive survey to categorize ",
+    "url": "https://arxiv.org/pdf/2406.01171v3",
+    "entry_id": "http://arxiv.org/abs/2406.01171v3",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "Role-Playing Simulation Games using ChatGPT",
+    "authors": [
+      "Rita Stampfl",
+      "Igor Ivki\u0107",
+      "Barbara Geyer"
+    ],
+    "year": 2024,
+    "month": 2,
+    "summary": "Since the COVID-19 pandemic, educational institutions have embarked on digital transformation projects. The success of these projects depends on integrating new technologies and understanding the needs of digitally literate students. The \"learning by doing\" approach suggests that real success in learning new skills is achieved when students can try out and practise these skills. In this article, w",
+    "url": "https://arxiv.org/pdf/2402.09161v1",
+    "entry_id": "http://arxiv.org/abs/2402.09161v1",
+    "categories": [
+      "cs.AI",
+      "cs.HC"
+    ],
+    "queries": [
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "Memory-Driven Role-Playing: Evaluation and Enhancement of Persona Knowledge Utilization in LLMs",
+    "authors": [
+      "Kai Wang",
+      "Haoyang You",
+      "Yang Zhang",
+      "Zhongjie Wang"
+    ],
+    "year": 2026,
+    "month": 3,
+    "summary": "A core challenge for faithful LLM role-playing is sustaining consistent characterization throughout long, open-ended dialogues, as models frequently fail to recall and accurately apply their designated persona knowledge without explicit cues. To tackle this, we propose the Memory-Driven Role-Playing paradigm. Inspired by Stanislavski's \"emotional memory\" acting theory, this paradigm frames persona",
+    "url": "https://arxiv.org/pdf/2603.19313v1",
+    "entry_id": "http://arxiv.org/abs/2603.19313v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "queries": [
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "Moral Susceptibility and Robustness under Persona Role-Play in Large Language Models",
+    "authors": [
+      "Davi Bastos Costa",
+      "Felippe Alves",
+      "Renato Vicente"
+    ],
+    "year": 2025,
+    "month": 11,
+    "summary": "Large language models (LLMs) increasingly operate in social contexts, motivating analysis of how they express and shift moral judgments. In this work, we investigate the moral response of LLMs to persona role-play, prompting a LLM to assume a specific character. Using the Moral Foundations Questionnaire (MFQ), we introduce a benchmark that quantifies two properties: moral susceptibility and moral ",
+    "url": "https://arxiv.org/pdf/2511.08565v3",
+    "entry_id": "http://arxiv.org/abs/2511.08565v3",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CY"
+    ],
+    "queries": [
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "Quantifying the Persona Effect in LLM Simulations",
+    "authors": [
+      "Tiancheng Hu",
+      "Nigel Collier"
+    ],
+    "year": 2024,
+    "month": 2,
+    "summary": "Large language models (LLMs) have shown remarkable promise in simulating human language and behavior. This study investigates how integrating persona variables-demographic, social, and behavioral factors-impacts LLMs' ability to simulate diverse perspectives. We find that persona variables account for <10% variance in annotations in existing subjective NLP datasets. Nonetheless, incorporating pers",
+    "url": "https://arxiv.org/pdf/2402.10811v2",
+    "entry_id": "http://arxiv.org/abs/2402.10811v2",
+    "categories": [
+      "cs.CL",
+      "cs.CY"
+    ],
+    "queries": [
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "DPRF: A Generalizable Dynamic Persona Refinement Framework for Optimizing Behavior Alignment Between Personalized LLM Role-Playing Agents and Humans",
+    "authors": [
+      "Bingsheng Yao",
+      "Bo Sun",
+      "Yuanzhe Dong",
+      "Yuxuan Lu",
+      "Dakuo Wang"
+    ],
+    "year": 2025,
+    "month": 10,
+    "summary": "The emerging large language model role-playing agents (LLM RPAs) aim to simulate individual human behaviors, but the persona fidelity is often undermined by manually-created profiles (e.g., cherry-picked information and personality characteristics) without validating the alignment with the target individuals. To address this limitation, our work introduces the Dynamic Persona Refinement Framework ",
+    "url": "https://arxiv.org/pdf/2510.14205v3",
+    "entry_id": "http://arxiv.org/abs/2510.14205v3",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "queries": [
+      "role-play LLM persona simulation"
+    ]
+  },
+  {
+    "title": "Effective Proxy for Human Labeling: Ensemble Disagreement Scores in Large Language Models for Industrial NLP",
+    "authors": [
+      "Wei Du",
+      "Laksh Advani",
+      "Yashmeet Gambhir",
+      "Daniel J Perry",
+      "Prashant Shiralkar",
+      "Zhengzheng Xing",
+      "Aaron Colak"
+    ],
+    "year": 2023,
+    "month": 9,
+    "summary": "Large language models (LLMs) have demonstrated significant capability to generalize across a large number of NLP tasks. For industry applications, it is imperative to assess the performance of the LLM on unlabeled production data from time to time to validate for a real-world setting. Human labeling to assess model error requires considerable expense and time delay. Here we demonstrate that ensemb",
+    "url": "https://arxiv.org/pdf/2309.05619v2",
+    "entry_id": "http://arxiv.org/abs/2309.05619v2",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "epistemic disagreement language models"
+    ]
+  },
+  {
+    "title": "Building a Strong Instruction Language Model for a Less-Resourced Language",
+    "authors": [
+      "Domen Vre\u0161",
+      "Tja\u0161a Ar\u010don",
+      "Timotej Petri\u010d",
+      "Dario Vajda",
+      "Marko Robnik-\u0160ikonja",
+      "Iztok Lebar Bajec"
+    ],
+    "year": 2026,
+    "month": 3,
+    "summary": "Large language models (LLMs) have become an essential tool for natural language processing and artificial intelligence in general. Current open-source models are primarily trained on English texts, resulting in poorer performance on less-resourced languages and cultures. We present a set of methodological approaches necessary for the successful adaptation of an LLM to a less-resourced language, an",
+    "url": "https://arxiv.org/pdf/2603.01691v1",
+    "entry_id": "http://arxiv.org/abs/2603.01691v1",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "queries": [
+      "epistemic disagreement language models"
+    ]
+  },
+  {
+    "title": "Overview of the First Workshop on Language Models for Low-Resource Languages (LoResLM 2025)",
+    "authors": [
+      "Hansi Hettiarachchi",
+      "Tharindu Ranasinghe",
+      "Paul Rayson",
+      "Ruslan Mitkov",
+      "Mohamed Gaber",
+      "Damith Premasiri",
+      "Fiona Anting Tan",
+      "Lasitha Uyangodage"
+    ],
+    "year": 2024,
+    "month": 12,
+    "summary": "The first Workshop on Language Models for Low-Resource Languages (LoResLM 2025) was held in conjunction with the 31st International Conference on Computational Linguistics (COLING 2025) in Abu Dhabi, United Arab Emirates. This workshop mainly aimed to provide a forum for researchers to share and discuss their ongoing work on language models (LMs) focusing on low-resource languages, following the r",
+    "url": "https://arxiv.org/pdf/2412.16365v1",
+    "entry_id": "http://arxiv.org/abs/2412.16365v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "queries": [
+      "epistemic disagreement language models"
+    ]
+  },
+  {
+    "title": "Frictive Policy Optimization for LLMs: Epistemic Intervention, Risk-Sensitive Control, and Reflective Alignment",
+    "authors": [
+      "James Pustejovsky",
+      "Nikhil Krishnaswamy"
+    ],
+    "year": 2026,
+    "month": 4,
+    "summary": "We propose Frictive Policy Optimization (FPO), a framework for learning language model policies that regulate not only what to say, but when and how to intervene in order to manage epistemic and normative risk. Unlike standard alignment methods that optimize surface-level preference or task utility, FPO treats clarification, verification, challenge, redirection, and refusal as explicit control act",
+    "url": "https://arxiv.org/pdf/2604.25136v1",
+    "entry_id": "http://arxiv.org/abs/2604.25136v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "queries": [
+      "epistemic disagreement language models",
+      "LLM constitution alignment values"
+    ]
+  },
+  {
+    "title": "Epistemic Constitutionalism Or: how to avoid coherence bias",
+    "authors": [
+      "Michele Loi"
+    ],
+    "year": 2026,
+    "month": 1,
+    "summary": "Large language models increasingly function as artificial reasoners: they evaluate arguments, assign credibility, and express confidence. Yet their belief-forming behavior is governed by implicit, uninspected epistemic policies. This paper argues for an epistemic constitution for AI: explicit, contestable meta-norms that regulate how systems form and express beliefs. Source attribution bias provid",
+    "url": "https://arxiv.org/pdf/2601.14295v3",
+    "entry_id": "http://arxiv.org/abs/2601.14295v3",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CY"
+    ],
+    "queries": [
+      "epistemic disagreement language models"
+    ]
+  },
+  {
+    "title": "Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models",
+    "authors": [
+      "Hongzhan Lin",
+      "Ziyang Luo",
+      "Jing Ma",
+      "Long Chen"
+    ],
+    "year": 2023,
+    "month": 12,
+    "summary": "The age of social media is rife with memes. Understanding and detecting harmful memes pose a significant challenge due to their implicit meaning that is not explicitly conveyed through the surface text and image. However, existing harmful meme detection approaches only recognize superficial harm-indicative signals in an end-to-end classification manner but ignore in-depth cognition of the meme tex",
+    "url": "https://arxiv.org/pdf/2312.05434v1",
+    "entry_id": "http://arxiv.org/abs/2312.05434v1",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "epistemic disagreement language models"
+    ]
+  },
+  {
+    "title": "How Important Is Tokenization in French Medical Masked Language Models?",
+    "authors": [
+      "Yanis Labrak",
+      "Adrien Bazoge",
+      "Beatrice Daille",
+      "Mickael Rouvier",
+      "Richard Dufour"
+    ],
+    "year": 2024,
+    "month": 2,
+    "summary": "Subword tokenization has become the prevailing standard in the field of natural language processing (NLP) over recent years, primarily due to the widespread utilization of pre-trained language models. This shift began with Byte-Pair Encoding (BPE) and was later followed by the adoption of SentencePiece and WordPiece. While subword tokenization consistently outperforms character and word-level toke",
+    "url": "https://arxiv.org/pdf/2402.15010v2",
+    "entry_id": "http://arxiv.org/abs/2402.15010v2",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "queries": [
+      "epistemic disagreement language models"
+    ]
+  },
+  {
+    "title": "SpeechPrompt: Prompting Speech Language Models for Speech Processing Tasks",
+    "authors": [
+      "Kai-Wei Chang",
+      "Haibin Wu",
+      "Yu-Kai Wang",
+      "Yuan-Kuei Wu",
+      "Hua Shen",
+      "Wei-Cheng Tseng",
+      "Iu-thing Kang",
+      "Shang-Wen Li",
+      "Hung-yi Lee"
+    ],
+    "year": 2024,
+    "month": 8,
+    "summary": "Prompting has become a practical method for utilizing pre-trained language models (LMs). This approach offers several advantages. It allows an LM to adapt to new tasks with minimal training and parameter updates, thus achieving efficiency in both storage and computation. Additionally, prompting modifies only the LM's inputs and harnesses the generative capabilities of language models to address va",
+    "url": "https://arxiv.org/pdf/2408.13040v1",
+    "entry_id": "http://arxiv.org/abs/2408.13040v1",
+    "categories": [
+      "eess.AS",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "queries": [
+      "epistemic disagreement language models"
+    ]
+  },
+  {
+    "title": "Deliberative Technology for Alignment",
+    "authors": [
+      "Andrew Konya",
+      "Deger Turan",
+      "Aviv Ovadya",
+      "Lina Qui",
+      "Daanish Masood",
+      "Flynn Devine",
+      "Lisa Schirch",
+      "Isabella Roberts",
+      "Deliberative Alignment Forum"
+    ],
+    "year": 2023,
+    "month": 12,
+    "summary": "For humanity to maintain and expand its agency into the future, the most powerful systems we create must be those which act to align the future with the will of humanity. The most powerful systems today are massive institutions like governments, firms, and NGOs. Deliberative technology is already being used across these institutions to help align governance and diplomacy with human will, and moder",
+    "url": "https://arxiv.org/pdf/2312.03893v1",
+    "entry_id": "http://arxiv.org/abs/2312.03893v1",
+    "categories": [
+      "cs.CY",
+      "cs.HC"
+    ],
+    "queries": [
+      "LLM constitution alignment values"
+    ]
+  },
+  {
+    "title": "Systematic Evaluation of LLM-as-a-Judge in LLM Alignment Tasks: Explainable Metrics and Diverse Prompt Templates",
+    "authors": [
+      "Hui Wei",
+      "Shenghua He",
+      "Tian Xia",
+      "Fei Liu",
+      "Andy Wong",
+      "Jingyang Lin",
+      "Mei Han"
+    ],
+    "year": 2024,
+    "month": 8,
+    "summary": "LLM-as-a-Judge has been widely applied to evaluate and compare different LLM alignmnet approaches (e.g., RLHF and DPO). However, concerns regarding its reliability have emerged, due to LLM judges' biases and inconsistent decision-making. Previous research has developed evaluation frameworks to assess reliability of LLM judges and their alignment with human preferences. However, the employed evalua",
+    "url": "https://arxiv.org/pdf/2408.13006v2",
+    "entry_id": "http://arxiv.org/abs/2408.13006v2",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "LLM constitution alignment values"
+    ]
+  },
+  {
+    "title": "LLM Probability Concentration: How Alignment Shrinks the Generative Horizon",
+    "authors": [
+      "Chenghao Yang",
+      "Sida Li",
+      "Ari Holtzman"
+    ],
+    "year": 2025,
+    "month": 6,
+    "summary": "Despite their impressive capabilities, aligned large language models (LLMs) often generate outputs that lack diversity. What drives this consistency in the generation? We investigate this phenomenon through the lens of probability concentration in the model's output distribution. To quantify this concentration, we introduce the *Branching Factor* (BF) -- a token-invariant measure of the effective ",
+    "url": "https://arxiv.org/pdf/2506.17871v3",
+    "entry_id": "http://arxiv.org/abs/2506.17871v3",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "queries": [
+      "LLM constitution alignment values"
+    ]
+  },
+  {
+    "title": "Towards Scalable Automated Alignment of LLMs: A Survey",
+    "authors": [
+      "Boxi Cao",
+      "Keming Lu",
+      "Xinyu Lu",
+      "Jiawei Chen",
+      "Mengjie Ren",
+      "Hao Xiang",
+      "Peilin Liu",
+      "Yaojie Lu",
+      "Ben He",
+      "Xianpei Han",
+      "Le Sun",
+      "Hongyu Lin",
+      "Bowen Yu"
+    ],
+    "year": 2024,
+    "month": 6,
+    "summary": "Alignment is the most critical step in building large language models (LLMs) that meet human needs. With the rapid development of LLMs gradually surpassing human capabilities, traditional alignment methods based on human-annotation are increasingly unable to meet the scalability demands. Therefore, there is an urgent need to explore new sources of automated alignment signals and technical approach",
+    "url": "https://arxiv.org/pdf/2406.01252v3",
+    "entry_id": "http://arxiv.org/abs/2406.01252v3",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "stat.ML"
+    ],
+    "queries": [
+      "LLM constitution alignment values"
+    ]
+  },
+  {
+    "title": "Aligning Artificial Superintelligence via a Multi-Box Protocol",
+    "authors": [
+      "Avraham Yair Negozio"
+    ],
+    "year": 2025,
+    "month": 11,
+    "summary": "We propose a novel protocol for aligning artificial superintelligence (ASI) based on mutual verification among multiple isolated systems that self-modify to achieve alignment. The protocol operates by containing multiple diverse artificial superintelligences in strict isolation (\"boxes\"), with humans remaining entirely outside the system. Each superintelligence has no ability to communicate with h",
+    "url": "https://arxiv.org/pdf/2511.21779v1",
+    "entry_id": "http://arxiv.org/abs/2511.21779v1",
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "queries": [
+      "LLM constitution alignment values"
+    ]
+  },
+  {
+    "title": "Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment",
+    "authors": [
+      "Jinhao Jiang",
+      "Junyi Li",
+      "Wayne Xin Zhao",
+      "Yang Song",
+      "Tao Zhang",
+      "Ji-Rong Wen"
+    ],
+    "year": 2024,
+    "month": 7,
+    "summary": "Adapting general large language models (LLMs) to specialized domains presents great challenges due to varied data distributions. This adaptation typically requires continual pre-training on massive domain-specific corpora to facilitate knowledge memorization, followed by training to apply this knowledge following human instructions and preferences. However, this method may result in inefficient kn",
+    "url": "https://arxiv.org/pdf/2407.10804v1",
+    "entry_id": "http://arxiv.org/abs/2407.10804v1",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "LLM constitution alignment values"
+    ]
+  },
+  {
+    "title": "Aligning Multimodal LLM with Human Preference: A Survey",
+    "authors": [
+      "Tao Yu",
+      "Yi-Fan Zhang",
+      "Chaoyou Fu",
+      "Junkang Wu",
+      "Jinda Lu",
+      "Kun Wang",
+      "Xingyu Lu",
+      "Yunhang Shen",
+      "Guibin Zhang",
+      "Dingjie Song",
+      "Yibo Yan",
+      "Tianlong Xu",
+      "Qingsong Wen",
+      "Zhang Zhang",
+      "Yan Huang",
+      "Liang Wang",
+      "Tieniu Tan"
+    ],
+    "year": 2025,
+    "month": 3,
+    "summary": "Large language models (LLMs) can handle a wide variety of general tasks with simple prompts, without the need for task-specific training. Multimodal Large Language Models (MLLMs), built upon LLMs, have demonstrated impressive potential in tackling complex tasks involving visual, auditory, and textual data. However, critical issues related to truthfulness, safety, o1-like reasoning, and alignment w",
+    "url": "https://arxiv.org/pdf/2503.14504v2",
+    "entry_id": "http://arxiv.org/abs/2503.14504v2",
+    "categories": [
+      "cs.CV"
+    ],
+    "queries": [
+      "LLM constitution alignment values"
+    ]
+  },
+  {
+    "title": "Exploring Persona-dependent LLM Alignment for the Moral Machine Experiment",
+    "authors": [
+      "Jiseon Kim",
+      "Jea Kwon",
+      "Luiz Felipe Vecchietti",
+      "Alice Oh",
+      "Meeyoung Cha"
+    ],
+    "year": 2025,
+    "month": 4,
+    "summary": "Deploying large language models (LLMs) with agency in real-world applications raises critical questions about how these models will behave. In particular, how will their decisions align with humans when faced with moral dilemmas? This study examines the alignment between LLM-driven decisions and human judgment in various contexts of the moral machine experiment, including personas reflecting diffe",
+    "url": "https://arxiv.org/pdf/2504.10886v1",
+    "entry_id": "http://arxiv.org/abs/2504.10886v1",
+    "categories": [
+      "cs.CY",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "queries": [
+      "LLM constitution alignment values"
+    ]
+  },
+  {
+    "title": "IterAlign: Iterative Constitutional Alignment of Large Language Models",
+    "authors": [
+      "Xiusi Chen",
+      "Hongzhi Wen",
+      "Sreyashi Nag",
+      "Chen Luo",
+      "Qingyu Yin",
+      "Ruirui Li",
+      "Zheng Li",
+      "Wei Wang"
+    ],
+    "year": 2024,
+    "month": 3,
+    "summary": "With the rapid development of large language models (LLMs), aligning LLMs with human values and societal norms to ensure their reliability and safety has become crucial. Reinforcement learning with human feedback (RLHF) and Constitutional AI (CAI) have been proposed for LLM alignment. However, these methods require either heavy human annotations or explicitly pre-defined constitutions, which are l",
+    "url": "https://arxiv.org/pdf/2403.18341v1",
+    "entry_id": "http://arxiv.org/abs/2403.18341v1",
+    "categories": [
+      "cs.CL"
+    ],
+    "queries": [
+      "LLM constitution alignment values"
+    ]
+  },
+  {
+    "title": "Policy Prototyping for LLMs: Pluralistic Alignment via Interactive and Collaborative Policymaking",
+    "authors": [
+      "K. J. Kevin Feng",
+      "Inyoung Cheong",
+      "Quan Ze Chen",
+      "Amy X. Zhang"
+    ],
+    "year": 2024,
+    "month": 9,
+    "summary": "Emerging efforts in AI alignment seek to broaden participation in shaping model behavior by eliciting and integrating collective input into a policy for model finetuning. While pluralistic, these processes are often linear and do not allow participating stakeholders to confirm whether potential outcomes of their contributions are indeed consistent with their intentions. Design prototyping has long",
+    "url": "https://arxiv.org/pdf/2409.08622v2",
+    "entry_id": "http://arxiv.org/abs/2409.08622v2",
+    "categories": [
+      "cs.HC"
+    ],
+    "queries": [
+      "LLM constitution alignment values"
+    ]
+  },
+  {
+    "title": "Refined Direct Preference Optimization with Synthetic Data for Behavioral Alignment of LLMs",
+    "authors": [
+      "V\u00edctor Gallego"
+    ],
+    "year": 2024,
+    "month": 2,
+    "summary": "In this paper, we introduce \\emph{refined Direct Preference Optimization} (rDPO), a method for improving the behavioral alignment of Large Language Models (LLMs) without the need for human-annotated data. The method involves creating synthetic data using self-critique prompting by a teacher LLM and then utilising a generalized DPO loss function to distil to a student LLM. The loss function incorpo",
+    "url": "https://arxiv.org/pdf/2402.08005v1",
+    "entry_id": "http://arxiv.org/abs/2402.08005v1",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "queries": [
+      "LLM constitution alignment values"
+    ]
+  },
+  {
+    "title": "The Specification Trap: Why Static Value Alignment Alone Is Insufficient for Robust Alignment",
+    "authors": [
+      "Austin Spizzirri"
+    ],
+    "year": 2025,
+    "month": 11,
+    "summary": "Static content-based AI value alignment is insufficient for robust alignment under capability scaling, distributional shift, and increasing autonomy. This holds for any approach that treats alignment as optimizing toward a fixed formal value-object, whether reward function, utility function, constitutional principles, or learned preference representation. Three philosophical results create compoun",
+    "url": "https://arxiv.org/pdf/2512.03048v5",
+    "entry_id": "http://arxiv.org/abs/2512.03048v5",
+    "categories": [
+      "cs.AI",
+      "cs.CY",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "queries": [
+      "LLM constitution alignment values"
+    ]
+  },
+  {
+    "title": "An Evaluation of Cultural Value Alignment in LLM",
+    "authors": [
+      "Nicholas Sukiennik",
+      "Chen Gao",
+      "Fengli Xu",
+      "Yong Li"
+    ],
+    "year": 2025,
+    "month": 4,
+    "summary": "LLMs as intelligent agents are being increasingly applied in scenarios where human interactions are involved, leading to a critical concern about whether LLMs are faithful to the variations in culture across regions. Several works have investigated this question in various ways, finding that there are biases present in the cultural representations of LLM outputs. To gain a more comprehensive view,",
+    "url": "https://arxiv.org/pdf/2504.08863v1",
+    "entry_id": "http://arxiv.org/abs/2504.08863v1",
+    "categories": [
+      "cs.CY",
+      "cs.AI"
+    ],
+    "queries": [
+      "LLM constitution alignment values"
+    ]
+  },
+  {
+    "title": "MAC: Multi-Agent Constitution Learning",
+    "authors": [
+      "Rushil Thareja",
+      "Gautam Gupta",
+      "Francesco Pinto",
+      "Nils Lukas"
+    ],
+    "year": 2026,
+    "month": 3,
+    "summary": "Constitutional AI is a method to oversee and control LLMs based on a set of rules written in natural language. These rules are typically written by human experts, but could in principle be learned automatically given sufficient training data for the desired behavior. Existing LLM-based prompt optimizers attempt this but are ineffective at learning constitutions since (i) they require many labeled ",
+    "url": "https://arxiv.org/pdf/2603.15968v1",
+    "entry_id": "http://arxiv.org/abs/2603.15968v1",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "queries": [
+      "LLM constitution alignment values"
+    ]
+  }
+]

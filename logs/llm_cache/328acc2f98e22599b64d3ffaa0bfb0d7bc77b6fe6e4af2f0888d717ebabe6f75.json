@@ -1,0 +1,1 @@
+{"content": "Rosa runs 5 miles each day for d days, so the total miles she has run after d days is \\(5d\\).\n\nHer goal is 100 miles, so the miles left to run would be:\n\n\\[100 - 5d\\]\n\nThe correct expression is:\n\n**(A) 100 \u2014 5d**", "in": 123, "out": 68}

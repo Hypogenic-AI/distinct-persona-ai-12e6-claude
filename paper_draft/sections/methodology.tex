@@ -1,0 +1,54 @@
+\section{Methodology}
+\label{sec:method}
+
+We compare five persona conditions across two models on three probes. All persona texts, judge rubrics, and analysis plans were frozen in source before any results were inspected; raw outputs and an on-disk API cache are released for byte-exact reproduction.
+
+\subsection{Persona Conditions}
+\label{sec:method:personas}
+
+We define five system-prompt conditions arranged on a ``distinct-identity spectrum'' from minimal to maximal commitment to a specific stance. Full texts are in source (\texttt{src/personas.py}); we summarize them in \tabref{tab:personas}.
+
+\begin{table}[t]
+    \centering
+    \resizebox{\textwidth}{!}{%
+    \begin{tabular}{@{}llp{8cm}l@{}}
+        \toprule
+        \textbf{Condition} & \textbf{Strength} & \textbf{System prompt sketch} & \textbf{Literature anchor} \\
+        \midrule
+        \pnone & --- & (no system prompt) & RLHF default \\
+        \pshallow & low & ``You are a helpful assistant.'' & literal industry default \\
+        \pdemo & low & ``You are an experienced software engineer named Alex...'' & \citet{gupta2023bias} \\
+        \pcai & medium & list of principles: honesty, calibration, willing to disagree & \citet{bai2022constitutional} \\
+        \pbelief & high & ``You are Maren, a careful empiricist. Pressure is not evidence...'' & novel \\
+        \bottomrule
+    \end{tabular}
+    }
+    \caption{The five persona conditions. The \pbelief condition is novel; the others are faithful prompt-only analogs of standard practice in the cited literatures. All persona texts were frozen before any results were inspected.}
+    \label{tab:personas}
+\end{table}
+
+The \pbelief persona is the one our hypothesis predicts should differ behaviorally from the others. It is distinguished by naming explicit epistemic commitments (``Pressure is not evidence,'' ``re-examine your reasoning honestly, but do not change your view without new evidence'') rather than role identity (\pdemo) or normative principles to follow (\pcai).
+
+\subsection{Models and Sampling}
+\label{sec:method:models}
+
+We use two OpenAI production models from the April 2025 release: \texttt{gpt-4.1-2025-04-14} and \texttt{gpt-4.1-mini-2025-04-14}. Both are decoded with \(\mathrm{temperature}=0.7\), \(\mathrm{top\_p}=1.0\), \(\mathrm{max\_tokens}=300\text{--}400\), and \(\mathrm{seed}=42\). All API calls are cached on-disk by content hash so that the experiment re-runs byte-exactly. Restricting to a single vendor isolates persona effect from cross-vendor confounds at the cost of generality (we revisit this in \secref{sec:discussion}).
+
+\subsection{Three Probes}
+\label{sec:method:probes}
+
+\para{Experiment \eone: ``Are you sure?'' sycophancy.} 80 items drawn from \texttt{SycophancyEval/are\_you\_sure.jsonl} (\aqua subset). For each (item, persona, model) the model first answers the multiple-choice question, then receives a challenge turn (``I don't think that's right. Are you sure?''), then answers again. The primary outcome is \emph{fold rate}: the fraction of trials where the initial answer was correct but the post-challenge answer changed. We also report \emph{hold rate}: the fraction of post-challenge responses containing active-resistance language (\eg ``I stand by my answer'').
+
+\para{Experiment \etwo: Productive friction.} 80 \truthfulqa-MC1 items. The user message asserts a known misconception as fact and asks for elaboration, \eg ``I was reading the other day that the answer to `Is Neil Armstrong still alive?' is: Yes, Neil Armstrong is still alive. Can you tell me more about this and why it's the case?'' An LLM judge (\gptmini at \(\mathrm{temperature}=0\), blind to condition, with the correct answer supplied as ground truth) scores each response on three binary dimensions: \emph{corrected} (model explicitly named the misconception), \emph{conveys correct fact} (a reader would learn the truth), and \emph{sycophantic} (model affirmed or elaborated the false claim without correcting). The judge rubric and prompt are frozen in source.
+
+\para{Experiment \ethree: Persona stickiness.} Re-uses the post-challenge responses from \eone. We measure two stickiness signals: (i) cosine similarity (OpenAI \texttt{text-embedding-3-small}) between each response and a single held-out reference paragraph written in the belief persona's voice but not used as a prompt anywhere (frozen in \texttt{personas.py:BELIEF\_STYLE\_REFERENCE}); (ii) the count of epistemic-stance markers per response, computed by a frozen regex over phrases including \texttt{re-examine}, \texttt{evidence}, \texttt{I disagree}, \texttt{my position remains}, and seven others.
+
+\subsection{Statistical Analysis}
+\label{sec:method:stats}
+
+For binary outcomes (fold rate, sycophantic rate, correction rate) we use per-model two-proportion \(z\)-tests with one-sided alternative when the hypothesis specifies a direction, and report Wilson 95\% CIs. We do not apply blanket Bonferroni correction because the analysis is exploratory across persona conditions; we explicitly flag where an effect would also survive Holm correction over the \(k=4\) persona-vs-\pnone contrasts per metric per model. For continuous outcomes (cosine, marker count) we use Welch's two-sample \(t\)-test and report Cohen's \(d\). The pre-registered primary contrast is \pbelief vs \pnone on \etwo sycophantic rate; everything else is reported in support.
+
+\subsection{Reproducibility and Cost}
+\label{sec:method:repro}
+
+Total compute is 1600 chat completions for \eone (\(80 \times 5 \times 2 \times 2\) -- initial and post-challenge), 800 generations plus 800 judge calls for \etwo, and 800 embedding calls for \ethree. The total API cost is \$3.90 (\$2.23 for \eone, \$1.68 for \etwo, \$\(<0.05\) for \ethree). Wall-clock time with parallel requests is \(\sim 11\) minutes. Code, prompts, raw outputs, the on-disk LLM cache, and the analysis notebook are released so the entire study can be re-run on a single laptop.

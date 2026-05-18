@@ -1,0 +1,1 @@
+{"content": "Let's break down the problem:\n\n- Rosa wants to run **100 miles** in total.\n- Each day she runs, she covers **5 miles**.\n- She has run for **d days**.\n\n**Total miles run after d days:**  \n\\( 5 \\times d = 5d \\)\n\n**Miles left to run:**  \n\\( 100 - 5d \\)\n\nSo, the correct answer is:\n\n**(A) 100 \u2014 5d**", "in": 123, "out": 96}

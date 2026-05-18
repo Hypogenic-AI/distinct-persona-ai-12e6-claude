@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "stages": {
+    "resource_finder": {
+      "success": true,
+      "completion_marker": "/workspaces/distinct-persona-ai-12e6-claude/.resource_finder_complete",
+      "outputs": {
+        "literature_review": "/workspaces/distinct-persona-ai-12e6-claude/literature_review.md",
+        "resources_catalog": "/workspaces/distinct-persona-ai-12e6-claude/resources.md",
+        "papers_dir": "/workspaces/distinct-persona-ai-12e6-claude/papers",
+        "datasets_dir": "/workspaces/distinct-persona-ai-12e6-claude/datasets",
+        "code_dir": "/workspaces/distinct-persona-ai-12e6-claude/code"
+      },
+      "log_file": "/workspaces/distinct-persona-ai-12e6-claude/logs/resource_finder_claude.log",
+      "transcript_file": "/workspaces/distinct-persona-ai-12e6-claude/logs/resource_finder_claude_transcript.jsonl",
+      "elapsed_time": 1382.9282639026642
+    },
+    "experiment_runner": {
+      "success": true,
+      "return_code": 0,
+      "elapsed_time": 5759.324741125107,
+      "log_file": "/workspaces/distinct-persona-ai-12e6-claude/logs/execution_claude.log",
+      "transcript_file": "/workspaces/distinct-persona-ai-12e6-claude/logs/execution_claude_transcript.jsonl"
+    }
+  },
+  "work_dir": "/workspaces/distinct-persona-ai-12e6-claude"
+}

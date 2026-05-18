@@ -1,0 +1,1566 @@
+[
+  {
+    "title": "Foundations of GenIR",
+    "authors": [
+      "Qingyao Ai",
+      "Jingtao Zhan",
+      "Yiqun Liu"
+    ],
+    "year": 2025,
+    "month": 1,
+    "summary": "The chapter discusses the foundational impact of modern generative AI models on information access (IA) systems. In contrast to traditional AI, the large-scale training and superior data modeling of generative AI models enable them to produce high-quality, human-like responses, which brings brand new opportunities for the development of IA paradigms. In this chapter, we identify and introduce two ",
+    "url": "https://arxiv.org/pdf/2501.02842v1",
+    "entry_id": "http://arxiv.org/abs/2501.02842v1",
+    "queries": [
+      "constitutional AI Anthropic helpful harmless",
+      "AI agreeing user truthfulness honesty"
+    ]
+  },
+  {
+    "title": "AI prediction leads people to forgo guaranteed rewards",
+    "authors": [
+      "Aoi Naito",
+      "Hirokazu Shirado"
+    ],
+    "year": 2026,
+    "month": 3,
+    "summary": "Artificial intelligence (AI) is understood to affect the content of people's decisions. Here, using a behavioral implementation of the classic Newcomb's paradox in 1,305 participants, we show that AI can also change how people decide. In this paradigm, belief in predictive authority can lead individuals to constrain decision-making, forgoing a guaranteed reward. Over 40% of participants treated AI",
+    "url": "https://arxiv.org/pdf/2603.28944v1",
+    "entry_id": "http://arxiv.org/abs/2603.28944v1",
+    "queries": [
+      "constitutional AI Anthropic helpful harmless",
+      "AI agreeing user truthfulness honesty"
+    ]
+  },
+  {
+    "title": "Competing Visions of Ethical AI: A Case Study of OpenAI",
+    "authors": [
+      "Melissa Wilfley",
+      "Mengting Ai",
+      "Madelyn Rose Sanfilippo"
+    ],
+    "year": 2026,
+    "month": 1,
+    "summary": "Introduction. AI Ethics is framed distinctly across actors and stakeholder groups. We report results from a case study of OpenAI analysing ethical AI discourse. Method. Research addressed: How has OpenAI's public discourse leveraged 'ethics', 'safety', 'alignment' and adjacent related concepts over time, and what does discourse signal about framing in practice? A structured corpus, differentiating",
+    "url": "https://arxiv.org/pdf/2601.16513v1",
+    "entry_id": "http://arxiv.org/abs/2601.16513v1",
+    "queries": [
+      "constitutional AI Anthropic helpful harmless",
+      "AI agreeing user truthfulness honesty"
+    ]
+  },
+  {
+    "title": "Constitutional AI: Harmlessness from AI Feedback",
+    "authors": [
+      "Yuntao Bai",
+      "Saurav Kadavath",
+      "Sandipan Kundu",
+      "Amanda Askell",
+      "Jackson Kernion",
+      "Andy Jones",
+      "Anna Chen",
+      "Anna Goldie",
+      "Azalia Mirhoseini",
+      "Cameron McKinnon",
+      "Carol Chen",
+      "Catherine Olsson",
+      "Christopher Olah",
+      "Danny Hernandez",
+      "Dawn Drain",
+      "Deep Ganguli",
+      "Dustin Li",
+      "Eli Tran-Johnson",
+      "Ethan Perez",
+      "Jamie Kerr",
+      "Jared Mueller",
+      "Jeffrey Ladish",
+      "Joshua Landau",
+      "Kamal Ndousse",
+      "Kamile Lukosuite",
+      "Liane Lovitt",
+      "Michael Sellitto",
+      "Nelson Elhage",
+      "Nicholas Schiefer",
+      "Noemi Mercado",
+      "Nova DasSarma",
+      "Robert Lasenby",
+      "Robin Larson",
+      "Sam Ringer",
+      "Scott Johnston",
+      "Shauna Kravec",
+      "Sheer El Showk",
+      "Stanislav Fort",
+      "Tamera Lanham",
+      "Timothy Telleen-Lawton",
+      "Tom Conerly",
+      "Tom Henighan",
+      "Tristan Hume",
+      "Samuel R. Bowman",
+      "Zac Hatfield-Dodds",
+      "Ben Mann",
+      "Dario Amodei",
+      "Nicholas Joseph",
+      "Sam McCandlish",
+      "Tom Brown",
+      "Jared Kaplan"
+    ],
+    "year": 2022,
+    "month": 12,
+    "summary": "As AI systems become more capable, we would like to enlist their help to supervise other AIs. We experiment with methods for training a harmless AI assistant through self-improvement, without any human labels identifying harmful outputs. The only human oversight is provided through a list of rules or principles, and so we refer to the method as 'Constitutional AI'. The process involves both a supe",
+    "url": "https://arxiv.org/pdf/2212.08073v1",
+    "entry_id": "http://arxiv.org/abs/2212.08073v1",
+    "queries": [
+      "constitutional AI Anthropic helpful harmless"
+    ]
+  },
+  {
+    "title": "Constitution or Collapse? Exploring Constitutional AI with Llama 3-8B",
+    "authors": [
+      "Xue Zhang"
+    ],
+    "year": 2025,
+    "month": 4,
+    "summary": "As language models continue to grow larger, the cost of acquiring high-quality training data has increased significantly. Collecting human feedback is both expensive and time-consuming, and manual labels can be noisy, leading to an imbalance between helpfulness and harmfulness. Constitutional AI, introduced by Anthropic in December 2022, uses AI to provide feedback to another AI, greatly reducing ",
+    "url": "https://arxiv.org/pdf/2504.04918v1",
+    "entry_id": "http://arxiv.org/abs/2504.04918v1",
+    "queries": [
+      "constitutional AI Anthropic helpful harmless"
+    ]
+  },
+  {
+    "title": "Anthropic Bound on Dark Radiation and its Implications for Reheating",
+    "authors": [
+      "Fuminobu Takahashi",
+      "Masaki Yamada"
+    ],
+    "year": 2019,
+    "month": 4,
+    "summary": "We derive an anthropic bound on the extra neutrino species, $\u0394N_{\\rm eff}$, based on the observation that a positive $\u0394N_{\\rm eff}$ suppresses the growth of matter fluctuations due to the prolonged radiation dominated era, which reduces the fraction of matter that collapses into galaxies, hence, the number of observers. We vary $\u0394N_{\\rm eff}$ and the positive cosmological constant while fixing the",
+    "url": "https://arxiv.org/pdf/1904.12864v3",
+    "entry_id": "http://arxiv.org/abs/1904.12864v3",
+    "queries": [
+      "constitutional AI Anthropic helpful harmless"
+    ]
+  },
+  {
+    "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+    "authors": [
+      "Chaeyeon Lim"
+    ],
+    "year": 2025,
+    "month": 4,
+    "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interact",
+    "url": "https://arxiv.org/pdf/2504.16770v1",
+    "entry_id": "http://arxiv.org/abs/2504.16770v1",
+    "queries": [
+      "constitutional AI Anthropic helpful harmless",
+      "collaborative writing AI human pushback feedback",
+      "AI agreeing user truthfulness honesty",
+      "human-AI collaboration friction productive"
+    ]
+  },
+  {
+    "title": "Towards The Ultimate Brain: Exploring Scientific Discovery with ChatGPT AI",
+    "authors": [
+      "Gerardo Adesso"
+    ],
+    "year": 2023,
+    "month": 7,
+    "summary": "This paper presents a novel approach to scientific discovery using an artificial intelligence (AI) environment known as ChatGPT, developed by OpenAI. This is the first paper entirely generated with outputs from ChatGPT. We demonstrate how ChatGPT can be instructed through a gamification environment to define and benchmark hypothetical physical theories. Through this environment, ChatGPT successful",
+    "url": "https://arxiv.org/pdf/2308.12400v1",
+    "entry_id": "http://arxiv.org/abs/2308.12400v1",
+    "queries": [
+      "constitutional AI Anthropic helpful harmless",
+      "AI agreeing user truthfulness honesty"
+    ]
+  },
+  {
+    "title": "Public Constitutional AI",
+    "authors": [
+      "Gilad Abiri"
+    ],
+    "year": 2024,
+    "month": 6,
+    "summary": "We are increasingly subjected to the power of AI authorities. As AI decisions become inescapable, entering domains such as healthcare, education, and law, we must confront a vital question: how can we ensure AI systems have the legitimacy necessary for effective governance? This essay argues that to secure AI legitimacy, we need methods that engage the public in designing and constraining AI syste",
+    "url": "https://arxiv.org/pdf/2406.16696v2",
+    "entry_id": "http://arxiv.org/abs/2406.16696v2",
+    "queries": [
+      "constitutional AI Anthropic helpful harmless"
+    ]
+  },
+  {
+    "title": "Meaningful human control: actionable properties for AI system development",
+    "authors": [
+      "Luciano Cavalcante Siebert",
+      "Maria Luce Lupetti",
+      "Evgeni Aizenberg",
+      "Niek Beckers",
+      "Arkady Zgonnikov",
+      "Herman Veluwenkamp",
+      "David Abbink",
+      "Elisa Giaccardi",
+      "Geert-Jan Houben",
+      "Catholijn M. Jonker",
+      "Jeroen van den Hoven",
+      "Deborah Forster",
+      "Reginald L. Lagendijk"
+    ],
+    "year": 2021,
+    "month": 11,
+    "summary": "How can humans remain in control of artificial intelligence (AI)-based systems designed to perform tasks autonomously? Such systems are increasingly ubiquitous, creating benefits - but also undesirable situations where moral responsibility for their actions cannot be properly attributed to any particular person or group. The concept of meaningful human control has been proposed to address responsi",
+    "url": "https://arxiv.org/pdf/2112.01298v2",
+    "entry_id": "http://arxiv.org/abs/2112.01298v2",
+    "queries": [
+      "constitutional AI Anthropic helpful harmless"
+    ]
+  },
+  {
+    "title": "RLHF-Blender: A Configurable Interactive Interface for Learning from Diverse Human Feedback",
+    "authors": [
+      "Yannick Metz",
+      "David Lindner",
+      "Rapha\u00ebl Baur",
+      "Daniel Keim",
+      "Mennatallah El-Assady"
+    ],
+    "year": 2023,
+    "month": 8,
+    "summary": "To use reinforcement learning from human feedback (RLHF) in practical applications, it is crucial to learn reward models from diverse sources of human feedback and to consider human factors involved in providing feedback of different types. However, the systematic study of learning from diverse types of feedback is held back by limited standardized tooling available to researchers. To bridge this ",
+    "url": "https://arxiv.org/pdf/2308.04332v1",
+    "entry_id": "http://arxiv.org/abs/2308.04332v1",
+    "queries": [
+      "sycophancy reinforcement learning human feedback"
+    ]
+  },
+  {
+    "title": "Value Bonuses using Ensemble Errors for Exploration in Reinforcement Learning",
+    "authors": [
+      "Abdul Wahab",
+      "Raksha Kumaraswamy",
+      "Martha White"
+    ],
+    "year": 2026,
+    "month": 2,
+    "summary": "Optimistic value estimates provide one mechanism for directed exploration in reinforcement learning (RL). The agent acts greedily with respect to an estimate of the value plus what can be seen as a value bonus. The value bonus can be learned by estimating a value function on reward bonuses, propagating local uncertainties around rewards. However, this approach only increases the value bonus for an",
+    "url": "https://arxiv.org/pdf/2602.12375v1",
+    "entry_id": "http://arxiv.org/abs/2602.12375v1",
+    "queries": [
+      "sycophancy reinforcement learning human feedback"
+    ]
+  },
+  {
+    "title": "Reinforcement Learning from Human Feedback: Whose Culture, Whose Values, Whose Perspectives?",
+    "authors": [
+      "Kristian Gonz\u00e1lez Barman",
+      "Simon Lohse",
+      "Henk de Regt"
+    ],
+    "year": 2024,
+    "month": 7,
+    "summary": "We argue for the epistemic and ethical advantages of pluralism in Reinforcement Learning from Human Feedback (RLHF) in the context of Large Language Models (LLM). Drawing on social epistemology and pluralist philosophy of science, we suggest ways in which RHLF can be made more responsive to human needs and how we can address challenges along the way. The paper concludes with an agenda for change, ",
+    "url": "https://arxiv.org/pdf/2407.17482v2",
+    "entry_id": "http://arxiv.org/abs/2407.17482v2",
+    "queries": [
+      "sycophancy reinforcement learning human feedback"
+    ]
+  },
+  {
+    "title": "Directed Policy Gradient for Safe Reinforcement Learning with Human Advice",
+    "authors": [
+      "H\u00e9l\u00e8ne Plisnier",
+      "Denis Steckelmacher",
+      "Tim Brys",
+      "Diederik M. Roijers",
+      "Ann Now\u00e9"
+    ],
+    "year": 2018,
+    "month": 8,
+    "summary": "Many currently deployed Reinforcement Learning agents work in an environment shared with humans, be them co-workers, users or clients. It is desirable that these agents adjust to people's preferences, learn faster thanks to their help, and act safely around them. We argue that most current approaches that learn from human feedback are unsafe: rewarding or punishing the agent a-posteriori cannot im",
+    "url": "https://arxiv.org/pdf/1808.04096v1",
+    "entry_id": "http://arxiv.org/abs/1808.04096v1",
+    "queries": [
+      "sycophancy reinforcement learning human feedback"
+    ]
+  },
+  {
+    "title": "Humans are not Boltzmann Distributions: Challenges and Opportunities for Modelling Human Feedback and Interaction in Reinforcement Learning",
+    "authors": [
+      "David Lindner",
+      "Mennatallah El-Assady"
+    ],
+    "year": 2022,
+    "month": 6,
+    "summary": "Reinforcement learning (RL) commonly assumes access to well-specified reward functions, which many practical applications do not provide. Instead, recently, more work has explored learning what to do from interacting with humans. So far, most of these approaches model humans as being (nosily) rational and, in particular, giving unbiased feedback. We argue that these models are too simplistic and t",
+    "url": "https://arxiv.org/pdf/2206.13316v1",
+    "entry_id": "http://arxiv.org/abs/2206.13316v1",
+    "queries": [
+      "sycophancy reinforcement learning human feedback"
+    ]
+  },
+  {
+    "title": "Exploring Hierarchy-Aware Inverse Reinforcement Learning",
+    "authors": [
+      "Chris Cundy",
+      "Daniel Filan"
+    ],
+    "year": 2018,
+    "month": 7,
+    "summary": "We introduce a new generative model for human planning under the Bayesian Inverse Reinforcement Learning (BIRL) framework which takes into account the fact that humans often plan using hierarchical strategies. We describe the Bayesian Inverse Hierarchical RL (BIHRL) algorithm for inferring the values of hierarchical planners, and use an illustrative toy model to show that BIHRL retains accuracy wh",
+    "url": "https://arxiv.org/pdf/1807.05037v1",
+    "entry_id": "http://arxiv.org/abs/1807.05037v1",
+    "queries": [
+      "sycophancy reinforcement learning human feedback"
+    ]
+  },
+  {
+    "title": "Stable and Safe Human-aligned Reinforcement Learning through Neural Ordinary Differential Equations",
+    "authors": [
+      "Liqun Zhao",
+      "Keyan Miao",
+      "Konstantinos Gatsis",
+      "Antonis Papachristodoulou"
+    ],
+    "year": 2024,
+    "month": 1,
+    "summary": "Reinforcement learning (RL) excels in applications such as video games, but ensuring safety as well as the ability to achieve the specified goals remains challenging when using RL for real-world problems, such as human-aligned tasks where human safety is paramount. This paper provides safety and stability definitions for such human-aligned tasks, and then proposes an algorithm that leverages neura",
+    "url": "https://arxiv.org/pdf/2401.13148v2",
+    "entry_id": "http://arxiv.org/abs/2401.13148v2",
+    "queries": [
+      "sycophancy reinforcement learning human feedback"
+    ]
+  },
+  {
+    "title": "Reinforcement Learning from Human Feedback with High-Confidence Safety Constraints",
+    "authors": [
+      "Yaswanth Chittepu",
+      "Blossom Metevier",
+      "Will Schwarzer",
+      "Austin Hoag",
+      "Scott Niekum",
+      "Philip S. Thomas"
+    ],
+    "year": 2025,
+    "month": 6,
+    "summary": "Existing approaches to language model alignment often treat safety as a tradeoff against helpfulness, which can lead to unacceptable responses in sensitive domains. To ensure reliable performance in such settings, we propose High-Confidence Safe Reinforcement Learning from Human Feedback (HC-RLHF), a method that provides high-confidence safety guarantees while maximizing helpfulness. Similar to pr",
+    "url": "https://arxiv.org/pdf/2506.08266v1",
+    "entry_id": "http://arxiv.org/abs/2506.08266v1",
+    "queries": [
+      "sycophancy reinforcement learning human feedback"
+    ]
+  },
+  {
+    "title": "Causal-Paced Deep Reinforcement Learning",
+    "authors": [
+      "Geonwoo Cho",
+      "Jaegyun Im",
+      "Doyoon Kim",
+      "Sundong Kim"
+    ],
+    "year": 2025,
+    "month": 6,
+    "summary": "Designing effective task sequences is crucial for curriculum reinforcement learning (CRL), where agents must gradually acquire skills by training on intermediate tasks. A key challenge in CRL is to identify tasks that promote exploration, yet are similar enough to support effective transfer. While recent approach suggests comparing tasks via their Structural Causal Models (SCMs), the method requir",
+    "url": "https://arxiv.org/pdf/2507.02910v1",
+    "entry_id": "http://arxiv.org/abs/2507.02910v1",
+    "queries": [
+      "sycophancy reinforcement learning human feedback"
+    ]
+  },
+  {
+    "title": "Convergence of a Human-in-the-Loop Policy-Gradient Algorithm With Eligibility Trace Under Reward, Policy, and Advantage Feedback",
+    "authors": [
+      "Ishaan Shah",
+      "David Halpern",
+      "Kavosh Asadi",
+      "Michael L. Littman"
+    ],
+    "year": 2021,
+    "month": 9,
+    "summary": "Fluid human-agent communication is essential for the future of human-in-the-loop reinforcement learning. An agent must respond appropriately to feedback from its human trainer even before they have significant experience working together. Therefore, it is important that learning agents respond well to various feedback schemes human trainers are likely to provide. This work analyzes the COnvergent ",
+    "url": "https://arxiv.org/pdf/2109.07054v1",
+    "entry_id": "http://arxiv.org/abs/2109.07054v1",
+    "queries": [
+      "sycophancy reinforcement learning human feedback"
+    ]
+  },
+  {
+    "title": "A Survey of Multi-Agent Deep Reinforcement Learning with Communication",
+    "authors": [
+      "Changxi Zhu",
+      "Mehdi Dastani",
+      "Shihan Wang"
+    ],
+    "year": 2022,
+    "month": 3,
+    "summary": "Communication is an effective mechanism for coordinating the behaviors of multiple agents, broadening their views of the environment, and to support their collaborations. In the field of multi-agent deep reinforcement learning (MADRL), agents can improve the overall learning performance and achieve their objectives by communication. Agents can communicate various types of messages, either to all a",
+    "url": "https://arxiv.org/pdf/2203.08975v2",
+    "entry_id": "http://arxiv.org/abs/2203.08975v2",
+    "queries": [
+      "LLM debate deliberation multi-agent"
+    ]
+  },
+  {
+    "title": "A Methodology to Engineer and Validate Dynamic Multi-level Multi-agent Based Simulations",
+    "authors": [
+      "Jean-Baptiste Soyez",
+      "Gildas Morvan",
+      "Daniel Dupont",
+      "Rochdi Merzouki"
+    ],
+    "year": 2013,
+    "month": 11,
+    "summary": "This article proposes a methodology to model and simulate complex systems, based on IRM4MLS, a generic agent-based meta-model able to deal with multi-level systems. This methodology permits the engineering of dynamic multi-level agent-based models, to represent complex systems over several scales and domains of interest. Its goal is to simulate a phenomenon using dynamically the lightest represent",
+    "url": "https://arxiv.org/pdf/1311.5108v1",
+    "entry_id": "http://arxiv.org/abs/1311.5108v1",
+    "queries": [
+      "LLM debate deliberation multi-agent"
+    ]
+  },
+  {
+    "title": "Augmenting the action space with conventions to improve multi-agent cooperation in Hanabi",
+    "authors": [
+      "F. Bredell",
+      "H. A. Engelbrecht",
+      "J. C. Schoeman"
+    ],
+    "year": 2024,
+    "month": 12,
+    "summary": "The card game Hanabi is considered a strong medium for the testing and development of multi-agent reinforcement learning (MARL) algorithms, due to its cooperative nature, partial observability, limited communication and remarkable complexity. Previous research efforts have explored the capabilities of MARL algorithms within Hanabi, focusing largely on advanced architecture design and algorithmic m",
+    "url": "https://arxiv.org/pdf/2412.06333v3",
+    "entry_id": "http://arxiv.org/abs/2412.06333v3",
+    "queries": [
+      "LLM debate deliberation multi-agent"
+    ]
+  },
+  {
+    "title": "Context Engineering for Multi-Agent LLM Code Assistants Using Elicit, NotebookLM, ChatGPT, and Claude Code",
+    "authors": [
+      "Muhammad Haseeb"
+    ],
+    "year": 2025,
+    "month": 8,
+    "summary": "Large Language Models (LLMs) have shown promise in automating code generation and software engineering tasks, yet they often struggle with complex, multi-file projects due to context limitations and knowledge gaps. We propose a novel context engineering workflow that combines multiple AI components: an Intent Translator (GPT-5) for clarifying user requirements, an Elicit-powered semantic literatur",
+    "url": "https://arxiv.org/pdf/2508.08322v1",
+    "entry_id": "http://arxiv.org/abs/2508.08322v1",
+    "queries": [
+      "LLM debate deliberation multi-agent"
+    ]
+  },
+  {
+    "title": "AOAD-MAT: Transformer-based multi-agent deep reinforcement learning model considering agents' order of action decisions",
+    "authors": [
+      "Shota Takayama",
+      "Katsuhide Fujita"
+    ],
+    "year": 2025,
+    "month": 10,
+    "summary": "Multi-agent reinforcement learning focuses on training the behaviors of multiple learning agents that coexist in a shared environment. Recently, MARL models, such as the Multi-Agent Transformer (MAT) and ACtion dEpendent deep Q-learning (ACE), have significantly improved performance by leveraging sequential decision-making processes. Although these models can enhance performance, they do not expli",
+    "url": "https://arxiv.org/pdf/2510.13343v1",
+    "entry_id": "http://arxiv.org/abs/2510.13343v1",
+    "queries": [
+      "LLM debate deliberation multi-agent"
+    ]
+  },
+  {
+    "title": "Small LLMs Are Weak Tool Learners: A Multi-LLM Agent",
+    "authors": [
+      "Weizhou Shen",
+      "Chenliang Li",
+      "Hongzhan Chen",
+      "Ming Yan",
+      "Xiaojun Quan",
+      "Hehong Chen",
+      "Ji Zhang",
+      "Fei Huang"
+    ],
+    "year": 2024,
+    "month": 1,
+    "summary": "Large Language Model (LLM) agents significantly extend the capabilities of standalone LLMs, empowering them to interact with external tools (e.g., APIs, functions) and complete various tasks in a self-directed fashion. The challenge of tool use demands that LLMs not only understand user queries and generate answers accurately but also excel in task planning, tool invocation, and result summarizati",
+    "url": "https://arxiv.org/pdf/2401.07324v3",
+    "entry_id": "http://arxiv.org/abs/2401.07324v3",
+    "queries": [
+      "LLM debate deliberation multi-agent"
+    ]
+  },
+  {
+    "title": "SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution",
+    "authors": [
+      "Han Li",
+      "Yuling Shi",
+      "Shaoxin Lin",
+      "Xiaodong Gu",
+      "Heng Lian",
+      "Xin Wang",
+      "Yantao Jia",
+      "Tao Huang",
+      "Qianxiang Wang"
+    ],
+    "year": 2025,
+    "month": 7,
+    "summary": "Issue resolution has made remarkable progress thanks to the advanced reasoning capabilities of large language models (LLMs). Recently, agent-based frameworks such as SWE-agent have further advanced this progress by enabling autonomous, tool-using agents to tackle complex software engineering tasks. While existing agent-based issue resolution approaches are primarily based on agents' independent ex",
+    "url": "https://arxiv.org/pdf/2507.23348v1",
+    "entry_id": "http://arxiv.org/abs/2507.23348v1",
+    "queries": [
+      "LLM debate deliberation multi-agent"
+    ]
+  },
+  {
+    "title": "MedAide: Information Fusion and Anatomy of Medical Intents via LLM-based Agent Collaboration",
+    "authors": [
+      "Dingkang Yang",
+      "Jinjie Wei",
+      "Mingcheng Li",
+      "Jiyao Liu",
+      "Lihao Liu",
+      "Ming Hu",
+      "Junjun He",
+      "Yakun Ju",
+      "Wei Zhou",
+      "Yang Liu",
+      "Lihua Zhang"
+    ],
+    "year": 2024,
+    "month": 10,
+    "summary": "In healthcare intelligence, the ability to fuse heterogeneous, multi-intent information from diverse clinical sources is fundamental to building reliable decision-making systems. Large Language Model (LLM)-driven information interaction systems currently showing potential promise in the healthcare domain. Nevertheless, they often suffer from information redundancy and coupling when dealing with co",
+    "url": "https://arxiv.org/pdf/2410.12532v3",
+    "entry_id": "http://arxiv.org/abs/2410.12532v3",
+    "queries": [
+      "LLM debate deliberation multi-agent"
+    ]
+  },
+  {
+    "title": "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models",
+    "authors": [
+      "Paul Saves",
+      "Matthieu Mastio",
+      "Nicolas Verstaevel",
+      "Benoit Gaudou"
+    ],
+    "year": 2026,
+    "month": 4,
+    "summary": "Systematic exploration of Agent-Based Models (ABMs) is challenged by the curse of dimensionality and their inherent stochasticity. We present a multi-stage pipeline integrating the systematic design of experiments with machine learning surrogates. Using a predator-prey case study, our methodology proceeds in two steps. First, an automated model-based screening identifies dominant variables, assess",
+    "url": "https://arxiv.org/pdf/2604.03350v1",
+    "entry_id": "http://arxiv.org/abs/2604.03350v1",
+    "queries": [
+      "LLM debate deliberation multi-agent"
+    ]
+  },
+  {
+    "title": "Thucy: An LLM-based Multi-Agent System for Claim Verification across Relational Databases",
+    "authors": [
+      "Michael Theologitis",
+      "Dan Suciu"
+    ],
+    "year": 2025,
+    "month": 12,
+    "summary": "In today's age, it is becoming increasingly difficult to decipher truth from lies. Every day, politicians, media outlets, and public figures make conflicting claims -- often about topics that can, in principle, be verified against structured data. For instance, statements about crime rates, economic growth or healthcare can all be verified against official public records and structured datasets. B",
+    "url": "https://arxiv.org/pdf/2512.03278v2",
+    "entry_id": "http://arxiv.org/abs/2512.03278v2",
+    "queries": [
+      "LLM debate deliberation multi-agent"
+    ]
+  },
+  {
+    "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+    "authors": [
+      "Katelyn Xiaoying Mei",
+      "Nic Weber"
+    ],
+    "year": 2025,
+    "month": 4,
+    "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critica",
+    "url": "https://arxiv.org/pdf/2504.14689v1",
+    "entry_id": "http://arxiv.org/abs/2504.14689v1",
+    "queries": [
+      "collaborative writing AI human pushback feedback",
+      "human-AI collaboration friction productive"
+    ]
+  },
+  {
+    "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+    "authors": [
+      "Ryan Watkins",
+      "Soheil Human"
+    ],
+    "year": 2022,
+    "month": 2,
+    "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundari",
+    "url": "https://arxiv.org/pdf/2202.04977v3",
+    "entry_id": "http://arxiv.org/abs/2202.04977v3",
+    "queries": [
+      "collaborative writing AI human pushback feedback"
+    ]
+  },
+  {
+    "title": "Can You Explain That? Lucid Explanations Help Human-AI Collaborative Image Retrieval",
+    "authors": [
+      "Arijit Ray",
+      "Yi Yao",
+      "Rakesh Kumar",
+      "Ajay Divakaran",
+      "Giedrius Burachas"
+    ],
+    "year": 2019,
+    "month": 4,
+    "summary": "While there have been many proposals on making AI algorithms explainable, few have attempted to evaluate the impact of AI-generated explanations on human performance in conducting human-AI collaborative tasks. To bridge the gap, we propose a Twenty-Questions style collaborative image retrieval game, Explanation-assisted Guess Which (ExAG), as a method of evaluating the efficacy of explanations (vi",
+    "url": "https://arxiv.org/pdf/1904.03285v4",
+    "entry_id": "http://arxiv.org/abs/1904.03285v4",
+    "queries": [
+      "collaborative writing AI human pushback feedback",
+      "human-AI collaboration friction productive"
+    ]
+  },
+  {
+    "title": "Towards Feature Engineering with Human and AI's Knowledge: Understanding Data Science Practitioners' Perceptions in Human&AI-Assisted Feature Engineering Design",
+    "authors": [
+      "Qian Zhu",
+      "Dakuo Wang",
+      "Shuai Ma",
+      "April Yi Wang",
+      "Zixin Chen",
+      "Udayan Khurana",
+      "Xiaojuan Ma"
+    ],
+    "year": 2024,
+    "month": 5,
+    "summary": "As AI technology continues to advance, the importance of human-AI collaboration becomes increasingly evident, with numerous studies exploring its potential in various fields. One vital field is data science, including feature engineering (FE), where both human ingenuity and AI capabilities play pivotal roles. Despite the existence of AI-generated recommendations for FE, there remains a limited und",
+    "url": "https://arxiv.org/pdf/2405.14107v1",
+    "entry_id": "http://arxiv.org/abs/2405.14107v1",
+    "queries": [
+      "collaborative writing AI human pushback feedback",
+      "human-AI collaboration friction productive"
+    ]
+  },
+  {
+    "title": "Ink and Algorithm: Exploring Temporal Dynamics in Human-AI Collaborative Writing",
+    "authors": [
+      "Kaixun Yang",
+      "Yixin Cheng",
+      "Linxuan Zhao",
+      "Mladen Rakovi\u0107",
+      "Zachari Swiecki",
+      "Dragan Ga\u0161evi\u0107",
+      "Guanliang Chen"
+    ],
+    "year": 2024,
+    "month": 6,
+    "summary": "The advent of Generative Artificial Intelligence (GAI) has revolutionized the field of writing, marking a shift towards human-AI collaborative writing in education. However, the dynamics of human-AI interaction in the collaborative writing process are not well understood, and thus it remains largely unknown how human learning can be effectively supported with such cutting-edge GAI technologies. In",
+    "url": "https://arxiv.org/pdf/2406.14885v1",
+    "entry_id": "http://arxiv.org/abs/2406.14885v1",
+    "queries": [
+      "collaborative writing AI human pushback feedback"
+    ]
+  },
+  {
+    "title": "Distributed Cognition for AI-supported Remote Operations: Challenges and Research Directions",
+    "authors": [
+      "Rune M\u00f8berg Jacobsen",
+      "Joel Wester",
+      "Helena B\u00f8jer Djern\u00e6s",
+      "Niels van Berkel"
+    ],
+    "year": 2025,
+    "month": 4,
+    "summary": "This paper investigates the impact of artificial intelligence integration on remote operations, emphasising its influence on both distributed and team cognition. As remote operations increasingly rely on digital interfaces, sensors, and networked communication, AI-driven systems transform decision-making processes across domains such as air traffic control, industrial automation, and intelligent p",
+    "url": "https://arxiv.org/pdf/2504.14996v1",
+    "entry_id": "http://arxiv.org/abs/2504.14996v1",
+    "queries": [
+      "collaborative writing AI human pushback feedback",
+      "human-AI collaboration friction productive"
+    ]
+  },
+  {
+    "title": "Supporting Data-Frame Dynamics in AI-assisted Decision Making",
+    "authors": [
+      "Chengbo Zheng",
+      "Tim Miller",
+      "Alina Bialkowski",
+      "H Peter Soyer",
+      "Monika Janda"
+    ],
+    "year": 2025,
+    "month": 4,
+    "summary": "High stakes decision-making often requires a continuous interplay between evolving evidence and shifting hypotheses, a dynamic that is not well supported by current AI decision support systems. In this paper, we introduce a mixed-initiative framework for AI assisted decision making that is grounded in the data-frame theory of sensemaking and the evaluative AI paradigm. Our approach enables both hu",
+    "url": "https://arxiv.org/pdf/2504.15894v1",
+    "entry_id": "http://arxiv.org/abs/2504.15894v1",
+    "queries": [
+      "collaborative writing AI human pushback feedback",
+      "human-AI collaboration friction productive"
+    ]
+  },
+  {
+    "title": "On the Effect of Information Asymmetry in Human-AI Teams",
+    "authors": [
+      "Patrick Hemmer",
+      "Max Schemmer",
+      "Niklas K\u00fchl",
+      "Michael V\u00f6ssing",
+      "Gerhard Satzger"
+    ],
+    "year": 2022,
+    "month": 5,
+    "summary": "Over the last years, the rising capabilities of artificial intelligence (AI) have improved human decision-making in many application areas. Teaming between AI and humans may even lead to complementary team performance (CTP), i.e., a level of performance beyond the ones that can be reached by AI or humans individually. Many researchers have proposed using explainable AI (XAI) to enable humans to re",
+    "url": "https://arxiv.org/pdf/2205.01467v1",
+    "entry_id": "http://arxiv.org/abs/2205.01467v1",
+    "queries": [
+      "collaborative writing AI human pushback feedback"
+    ]
+  },
+  {
+    "title": "Human-AI Programming Role Optimization: Developing a Personality-Driven Self-Determination Framework",
+    "authors": [
+      "Marcel Valovy"
+    ],
+    "year": 2025,
+    "month": 11,
+    "summary": "As artificial intelligence transforms software development, a critical question emerges: how can developers and AI systems collaborate most effectively? This dissertation optimizes human-AI programming roles through self-determination theory and personality psychology, introducing the Role Optimization Motivation Alignment (ROMA) framework.\n  Through Design Science Research spanning five cycles, t",
+    "url": "https://arxiv.org/pdf/2511.00417v2",
+    "entry_id": "http://arxiv.org/abs/2511.00417v2",
+    "queries": [
+      "collaborative writing AI human pushback feedback"
+    ]
+  },
+  {
+    "title": "A Survey on the Honesty of Large Language Models",
+    "authors": [
+      "Siheng Li",
+      "Cheng Yang",
+      "Taiqiang Wu",
+      "Chufan Shi",
+      "Yuji Zhang",
+      "Xinyu Zhu",
+      "Zesen Cheng",
+      "Deng Cai",
+      "Mo Yu",
+      "Lemao Liu",
+      "Jie Zhou",
+      "Yujiu Yang",
+      "Ngai Wong",
+      "Xixin Wu",
+      "Wai Lam"
+    ],
+    "year": 2024,
+    "month": 9,
+    "summary": "Honesty is a fundamental principle for aligning large language models (LLMs) with human values, requiring these models to recognize what they know and don't know and be able to faithfully express their knowledge. Despite promising, current LLMs still exhibit significant dishonest behaviors, such as confidently presenting wrong answers or failing to express what they know. In addition, research on ",
+    "url": "https://arxiv.org/pdf/2409.18786v1",
+    "entry_id": "http://arxiv.org/abs/2409.18786v1",
+    "queries": [
+      "AI agreeing user truthfulness honesty"
+    ]
+  },
+  {
+    "title": "Explainable AI for Blind and Low-Vision Users: Navigating Trust, Modality, and Interpretability in the Agentic Era",
+    "authors": [
+      "Abu Noman Md Sakib",
+      "Protik Dey",
+      "Zijie Zhang",
+      "Taslima Akter"
+    ],
+    "year": 2026,
+    "month": 3,
+    "summary": "Explainable Artificial Intelligence (XAI) is critical for ensuring trust and accountability, yet its development remains predominantly visual. For blind and low-vision (BLV) users, the lack of accessible explanations creates a fundamental barrier to the independent use of AI-driven assistive technologies. This problem intensifies as AI systems shift from single-query tools into autonomous agents t",
+    "url": "https://arxiv.org/pdf/2604.00187v2",
+    "entry_id": "http://arxiv.org/abs/2604.00187v2",
+    "queries": [
+      "AI agreeing user truthfulness honesty"
+    ]
+  },
+  {
+    "title": "Emergent Dark Patterns in AI-Generated User Interfaces",
+    "authors": [
+      "Daksh Pandey"
+    ],
+    "year": 2026,
+    "month": 1,
+    "summary": "The advancement of artificial intelligence has transformed user interface design by enabling adaptive and personalized systems. Alongside these benefits, AI driven interfaces have also enabled the emergence of dark patterns, which are manipulative design strategies that influence user behavior for financial or business gain. As AI systems learn from data that already contains deceptive practices, ",
+    "url": "https://arxiv.org/pdf/2602.18445v1",
+    "entry_id": "http://arxiv.org/abs/2602.18445v1",
+    "queries": [
+      "AI agreeing user truthfulness honesty"
+    ]
+  },
+  {
+    "title": "Will Code Remain a Relevant User Interface for End-User Programming with Generative AI Models?",
+    "authors": [
+      "Advait Sarkar"
+    ],
+    "year": 2023,
+    "month": 11,
+    "summary": "The research field of end-user programming has largely been concerned with helping non-experts learn to code sufficiently well in order to achieve their tasks. Generative AI stands to obviate this entirely by allowing users to generate code from naturalistic language prompts. In this essay, we explore the extent to which \"traditional\" programming languages remain relevant for non-expert end-user p",
+    "url": "https://arxiv.org/pdf/2311.00382v1",
+    "entry_id": "http://arxiv.org/abs/2311.00382v1",
+    "queries": [
+      "AI agreeing user truthfulness honesty"
+    ]
+  },
+  {
+    "title": "Beyond principlism: Practical strategies for ethical AI use in research practices",
+    "authors": [
+      "Zhicheng Lin"
+    ],
+    "year": 2024,
+    "month": 1,
+    "summary": "The rapid adoption of generative artificial intelligence (AI) in scientific research, particularly large language models (LLMs), has outpaced the development of ethical guidelines, leading to a \"Triple-Too\" problem: too many high-level ethical initiatives, too abstract principles lacking contextual and practical relevance, and too much focus on restrictions and risks over benefits and utilities. E",
+    "url": "https://arxiv.org/pdf/2401.15284v6",
+    "entry_id": "http://arxiv.org/abs/2401.15284v6",
+    "queries": [
+      "AI agreeing user truthfulness honesty"
+    ]
+  },
+  {
+    "title": "Reflection on Data Storytelling Tools in the Generative AI Era from the Human-AI Collaboration Perspective",
+    "authors": [
+      "Haotian Li",
+      "Yun Wang",
+      "Huamin Qu"
+    ],
+    "year": 2025,
+    "month": 3,
+    "summary": "Human-AI collaborative tools attract attentions from the data storytelling community to lower the expertise barrier and streamline the workflow. The recent advance in large-scale generative AI techniques, e.g., large language models (LLMs) and text-to-image models, has the potential to enhance data storytelling with their power in visual and narration generation. After two years since these techni",
+    "url": "https://arxiv.org/pdf/2503.02631v2",
+    "entry_id": "http://arxiv.org/abs/2503.02631v2",
+    "queries": [
+      "human-AI collaboration friction productive"
+    ]
+  },
+  {
+    "title": "Human-AI Collaboration for Scaling Agile Regression Testing: An Agentic-AI Teammate from Manual to Automated Testing",
+    "authors": [
+      "Moustapha El Outmani",
+      "Manthan Venkataramana Shenoy",
+      "Ahmad Hatahet",
+      "Andreas Rausch",
+      "Tim Niklas Kniep",
+      "Thomas Raddatz",
+      "Benjamin King"
+    ],
+    "year": 2026,
+    "month": 3,
+    "summary": "Automated regression testing is essential for maintaining rapid, high-quality delivery in Agile and Scrum organizations. Many teams, including Hacon (a Siemens company), face a persistent gap: validated test specifications accumulate faster than they are automated, limiting regression coverage and increasing manual work. This paper reports an exploratory industrial case study of the Hacon Test Aut",
+    "url": "https://arxiv.org/pdf/2603.08190v2",
+    "entry_id": "http://arxiv.org/abs/2603.08190v2",
+    "queries": [
+      "human-AI collaboration friction productive"
+    ]
+  },
+  {
+    "title": "Human-AI Collaboration in Decision-Making: Beyond Learning to Defer",
+    "authors": [
+      "Diogo Leit\u00e3o",
+      "Pedro Saleiro",
+      "M\u00e1rio A. T. Figueiredo",
+      "Pedro Bizarro"
+    ],
+    "year": 2022,
+    "month": 6,
+    "summary": "Human-AI collaboration (HAIC) in decision-making aims to create synergistic teaming between human decision-makers and AI systems. Learning to defer (L2D) has been presented as a promising framework to determine who among humans and AI should make which decisions in order to optimize the performance and fairness of the combined system. Nevertheless, L2D entails several often unfeasible requirements",
+    "url": "https://arxiv.org/pdf/2206.13202v2",
+    "entry_id": "http://arxiv.org/abs/2206.13202v2",
+    "queries": [
+      "human-AI collaboration friction productive"
+    ]
+  },
+  {
+    "title": "Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models",
+    "authors": [
+      "Xuyang Zhu",
+      "Sejoon Chang",
+      "Andrew Kuik"
+    ],
+    "year": 2025,
+    "month": 4,
+    "summary": "Retrieval-Augmented Generation (RAG) systems offer a powerful approach to enhancing large language model (LLM) outputs by incorporating fact-checked, contextually relevant information. However, fairness and reliability concerns persist, as hallucinations can emerge at both the retrieval and generation stages, affecting users' reasoning and decision-making. Our research explores how tailored warnin",
+    "url": "https://arxiv.org/pdf/2504.16883v1",
+    "entry_id": "http://arxiv.org/abs/2504.16883v1",
+    "queries": [
+      "human-AI collaboration friction productive"
+    ]
+  },
+  {
+    "title": "RoleRAG: Enhancing LLM Role-Playing via Graph Guided Retrieval",
+    "authors": [
+      "Yongjie Wang",
+      "Jonathan Leung",
+      "Zhiqi Shen"
+    ],
+    "year": 2025,
+    "month": 5,
+    "summary": "Large Language Models (LLMs) have shown promise in character imitation, enabling immersive and engaging conversations. However, they often generate content that is irrelevant or inconsistent with a character's background. We attribute these failures to: (1) the inability to accurately recall character-specific knowledge due to entity ambiguity, and (2) a lack of awareness of the character's cognit",
+    "url": "https://arxiv.org/pdf/2505.18541v1",
+    "entry_id": "http://arxiv.org/abs/2505.18541v1",
+    "queries": [
+      "LLM character role-play steering personality"
+    ]
+  },
+  {
+    "title": "Brain-Grounded Axes for Reading and Steering LLM States",
+    "authors": [
+      "Sandro Andric"
+    ],
+    "year": 2025,
+    "month": 12,
+    "summary": "Interpretability methods for large language models (LLMs) typically derive directions from textual supervision, which can lack external grounding. We propose using human brain activity not as a training signal but as a coordinate system for reading and steering LLM states. Using the SMN4Lang MEG dataset, we construct a word-level brain atlas of phase-locking value (PLV) patterns and extract latent",
+    "url": "https://arxiv.org/pdf/2512.19399v1",
+    "entry_id": "http://arxiv.org/abs/2512.19399v1",
+    "queries": [
+      "LLM character role-play steering personality"
+    ]
+  },
+  {
+    "title": "Improving LLM Reasoning through Interpretable Role-Playing Steering",
+    "authors": [
+      "Anyi Wang",
+      "Dong Shu",
+      "Yifan Wang",
+      "Yunpu Ma",
+      "Mengnan Du"
+    ],
+    "year": 2025,
+    "month": 6,
+    "summary": "Role-playing has emerged as an effective technique for enhancing the reasoning capabilities of large language models (LLMs). However, existing methods primarily rely on prompt engineering, which often lacks stability and interpretability. In this paper, we introduce Sparse Autoencoder Role-Playing Steering (SRPS), a novel framework that identifies and manipulates internal model features associated",
+    "url": "https://arxiv.org/pdf/2506.07335v2",
+    "entry_id": "http://arxiv.org/abs/2506.07335v2",
+    "queries": [
+      "LLM character role-play steering personality"
+    ]
+  },
+  {
+    "title": "Exploring the Personality Traits of LLMs through Latent Features Steering",
+    "authors": [
+      "Shu Yang",
+      "Shenzhe Zhu",
+      "Liang Liu",
+      "Lijie Hu",
+      "Mengdi Li",
+      "Di Wang"
+    ],
+    "year": 2024,
+    "month": 10,
+    "summary": "Large language models (LLMs) have significantly advanced dialogue systems and role-playing agents through their ability to generate human-like text. While prior studies have shown that LLMs can exhibit distinct and consistent personalities, the mechanisms through which these models encode and express specific personality traits remain poorly understood. To address this, we investigate how various ",
+    "url": "https://arxiv.org/pdf/2410.10863v2",
+    "entry_id": "http://arxiv.org/abs/2410.10863v2",
+    "queries": [
+      "LLM character role-play steering personality"
+    ]
+  },
+  {
+    "title": "SteerX: Disentangled Steering for LLM Personalization",
+    "authors": [
+      "Xiaoyan Zhao",
+      "Ming Yan",
+      "Yilun Qiu",
+      "Haoting Ni",
+      "Yang Zhang",
+      "Fuli Feng",
+      "Hong Cheng",
+      "Tat-Seng Chua"
+    ],
+    "year": 2025,
+    "month": 10,
+    "summary": "Large language models (LLMs) have shown remarkable success in recent years, enabling a wide range of applications, including intelligent assistants that support users' daily life and work. A critical factor in building such assistants is personalizing LLMs, as user preferences and needs vary widely. Activation steering, which directly leverages directions representing user preference in the LLM ac",
+    "url": "https://arxiv.org/pdf/2510.22256v1",
+    "entry_id": "http://arxiv.org/abs/2510.22256v1",
+    "queries": [
+      "LLM character role-play steering personality"
+    ]
+  },
+  {
+    "title": "Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization",
+    "authors": [
+      "Yu-Min Tseng",
+      "Yu-Chao Huang",
+      "Teng-Yun Hsiao",
+      "Wei-Lin Chen",
+      "Chao-Wei Huang",
+      "Yu Meng",
+      "Yun-Nung Chen"
+    ],
+    "year": 2024,
+    "month": 6,
+    "summary": "The concept of persona, originally adopted in dialogue literature, has re-surged as a promising framework for tailoring large language models (LLMs) to specific context (e.g., personalized search, LLM-as-a-judge). However, the growing research on leveraging persona in LLMs is relatively disorganized and lacks a systematic taxonomy. To close the gap, we present a comprehensive survey to categorize ",
+    "url": "https://arxiv.org/pdf/2406.01171v3",
+    "entry_id": "http://arxiv.org/abs/2406.01171v3",
+    "queries": [
+      "LLM character role-play steering personality"
+    ]
+  },
+  {
+    "title": "The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs",
+    "authors": [
+      "Pengrui Han",
+      "Rafal Kocielnik",
+      "Peiyang Song",
+      "Ramit Debnath",
+      "Dean Mobbs",
+      "Anima Anandkumar",
+      "R. Michael Alvarez"
+    ],
+    "year": 2025,
+    "month": 9,
+    "summary": "Personality traits have long been studied as predictors of human behavior. Recent advances in Large Language Models (LLMs) suggest similar patterns may emerge in artificial systems, with advanced LLMs displaying consistent behavioral tendencies resembling human traits like agreeableness and self-regulation. Understanding these patterns is crucial, yet prior work primarily relied on simplified self",
+    "url": "https://arxiv.org/pdf/2509.03730v2",
+    "entry_id": "http://arxiv.org/abs/2509.03730v2",
+    "queries": [
+      "LLM character role-play steering personality"
+    ]
+  },
+  {
+    "title": "Linear Personality Probing and Steering in LLMs: A Big Five Study",
+    "authors": [
+      "Michel Frising",
+      "Daniel Balcells"
+    ],
+    "year": 2025,
+    "month": 12,
+    "summary": "Large language models (LLMs) exhibit distinct and consistent personalities that greatly impact trust and engagement. While this means that personality frameworks would be highly valuable tools to characterize and control LLMs' behavior, current approaches remain either costly (post-training) or brittle (prompt engineering). Probing and steering via linear directions has recently emerged as a cheap",
+    "url": "https://arxiv.org/pdf/2512.17639v2",
+    "entry_id": "http://arxiv.org/abs/2512.17639v2",
+    "queries": [
+      "LLM character role-play steering personality"
+    ]
+  },
+  {
+    "title": "PsyPlay: Personality-Infused Role-Playing Conversational Agents",
+    "authors": [
+      "Tao Yang",
+      "Yuhua Zhu",
+      "Xiaojun Quan",
+      "Cong Liu",
+      "Qifan Wang"
+    ],
+    "year": 2025,
+    "month": 2,
+    "summary": "The current research on Role-Playing Conversational Agents (RPCAs) with Large Language Models (LLMs) primarily focuses on imitating specific speaking styles and utilizing character backgrounds, neglecting the depiction of deeper personality traits.~In this study, we introduce personality-infused role-playing for LLM agents, which encourages agents to accurately portray their designated personality",
+    "url": "https://arxiv.org/pdf/2502.03821v1",
+    "entry_id": "http://arxiv.org/abs/2502.03821v1",
+    "queries": [
+      "LLM character role-play steering personality"
+    ]
+  },
+  {
+    "title": "Revealing and Mitigating the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing",
+    "authors": [
+      "Wenyuan Zhang",
+      "Shuaiyi Nie",
+      "Jiawei Sheng",
+      "Zefeng Zhang",
+      "Xinghua Zhang",
+      "Yongquan He",
+      "Tingwen Liu"
+    ],
+    "year": 2024,
+    "month": 9,
+    "summary": "Large language model (LLM) role-playing has gained widespread attention. Authentic character knowledge is crucial for constructing realistic LLM role-playing agents. However, existing works usually overlook the exploration of LLMs' ability to detect characters' known knowledge errors (KKE) and unknown knowledge errors (UKE) while playing roles, which would lead to low-quality automatic constructio",
+    "url": "https://arxiv.org/pdf/2409.11726v2",
+    "entry_id": "http://arxiv.org/abs/2409.11726v2",
+    "queries": [
+      "LLM character role-play steering personality"
+    ]
+  },
+  {
+    "title": "Abstract Argumentation / Persuasion / Dynamics",
+    "authors": [
+      "Ryuta Arisaka",
+      "Ken Satoh"
+    ],
+    "year": 2017,
+    "month": 5,
+    "summary": "The act of persuasion, a key component in rhetoric argumentation, may be viewed as a dynamics modifier. We extend Dung's frameworks with acts of persuasion among agents, and consider interactions among attack, persuasion and defence that have been largely unheeded so far. We characterise basic notions of admissibilities in this framework, and show a way of enriching them through, effectively, CTL ",
+    "url": "https://arxiv.org/pdf/1705.10044v3",
+    "entry_id": "http://arxiv.org/abs/1705.10044v3",
+    "queries": [
+      "argumentation persuasion language model"
+    ]
+  },
+  {
+    "title": "Predicting Decisions in Language Based Persuasion Games",
+    "authors": [
+      "Reut Apel",
+      "Ido Erev",
+      "Roi Reichart",
+      "Moshe Tennenholtz"
+    ],
+    "year": 2020,
+    "month": 12,
+    "summary": "Sender-receiver interactions, and specifically persuasion games, are widely researched in economic modeling and artificial intelligence. However, in the classic persuasion games setting, the messages sent from the expert to the decision-maker (DM) are abstract or well-structured signals rather than natural language messages. This paper addresses the use of natural language in persuasion games. For",
+    "url": "https://arxiv.org/pdf/2012.09966v5",
+    "entry_id": "http://arxiv.org/abs/2012.09966v5",
+    "queries": [
+      "argumentation persuasion language model"
+    ]
+  },
+  {
+    "title": "Detecting Winning Arguments with Large Language Models and Persuasion Strategies",
+    "authors": [
+      "Tiziano Labruna",
+      "Arkadiusz Modzelewski",
+      "Giorgio Satta",
+      "Giovanni Da San Martino"
+    ],
+    "year": 2026,
+    "month": 1,
+    "summary": "Detecting persuasion in argumentative text is a challenging task with important implications for understanding human communication. This work investigates the role of persuasion strategies - such as Attack on reputation, Distraction, and Manipulative wording - in determining the persuasiveness of a text. We conduct experiments on three annotated argument datasets: Winning Arguments (built from the",
+    "url": "https://arxiv.org/pdf/2601.10660v1",
+    "entry_id": "http://arxiv.org/abs/2601.10660v1",
+    "queries": [
+      "argumentation persuasion language model"
+    ]
+  },
+  {
+    "title": "Persuasion Propagation in LLM Agents",
+    "authors": [
+      "Hyejun Jeong",
+      "Amir Houmansadr",
+      "Shlomo Zilberstein",
+      "Eugene Bagdasarian"
+    ],
+    "year": 2026,
+    "month": 1,
+    "summary": "Modern AI agents increasingly combine conversational interaction with autonomous task execution, such as coding and web research, raising a natural question: what happens when an agent engaged in long-horizon tasks is subjected to user persuasion? We study how belief-level intervention can influence downstream task behavior, a phenomenon we name \\emph{persuasion propagation}. We introduce a behavi",
+    "url": "https://arxiv.org/pdf/2602.00851v2",
+    "entry_id": "http://arxiv.org/abs/2602.00851v2",
+    "queries": [
+      "argumentation persuasion language model"
+    ]
+  },
+  {
+    "title": "The Uses of Argument in Mathematics",
+    "authors": [
+      "Andrew Aberdein"
+    ],
+    "year": 2005,
+    "month": 4,
+    "summary": "  Stephen Toulmin once observed that `it has never been customary for philosophers to pay much attention to the rhetoric of mathematical debate'. Might the application of Toulmin's layout of arguments to mathematics remedy this oversight?\n  Toulmin's critics fault the layout as requiring so much abstraction as to permit incompatible reconstructions. Mathematical proofs may indeed be represented by",
+    "url": "https://arxiv.org/pdf/math/0504090v1",
+    "entry_id": "http://arxiv.org/abs/math/0504090v1",
+    "queries": [
+      "argumentation persuasion language model"
+    ]
+  },
+  {
+    "title": "Large Language Models are as persuasive as humans, but how? About the cognitive effort and moral-emotional language of LLM arguments",
+    "authors": [
+      "Carlos Carrasco-Farre"
+    ],
+    "year": 2024,
+    "month": 4,
+    "summary": "Large Language Models (LLMs) are already as persuasive as humans. However, we know very little about how they do it. This paper investigates the persuasion strategies of LLMs, comparing them with human-generated arguments. Using a dataset of 1,251 participants in an experiment, we analyze the persuasion strategies of LLM-generated and human-generated arguments using measures of cognitive effort (l",
+    "url": "https://arxiv.org/pdf/2404.09329v2",
+    "entry_id": "http://arxiv.org/abs/2404.09329v2",
+    "queries": [
+      "argumentation persuasion language model"
+    ]
+  },
+  {
+    "title": "Towards Understanding Persuasion in Computational Argumentation",
+    "authors": [
+      "Esin Durmus"
+    ],
+    "year": 2021,
+    "month": 10,
+    "summary": "Opinion formation and persuasion in argumentation are affected by three major factors: the argument itself, the source of the argument, and the properties of the audience. Understanding the role of each and the interplay between them is crucial for obtaining insights regarding argument interpretation and generation. It is particularly important for building effective argument generation systems th",
+    "url": "https://arxiv.org/pdf/2110.01078v1",
+    "entry_id": "http://arxiv.org/abs/2110.01078v1",
+    "queries": [
+      "argumentation persuasion language model"
+    ]
+  },
+  {
+    "title": "Persuasive Technologies for Sustainable Urban Mobility",
+    "authors": [
+      "Evangelia Anagnostopoulou",
+      "Efthimios Bothos",
+      "Babis Magoutas",
+      "Johann Schrammel",
+      "Gregoris Mentzas"
+    ],
+    "year": 2016,
+    "month": 4,
+    "summary": "In recent years, the persuasive interventions for inducing sustainable urban mobility behaviours has become a very active research field. This review paper systematically analyses existing approaches and prototype systems and describes and classifies the persuasive strategies used for changing behaviour in the domain of transport. It also studies the results and recommendations derived from pilot ",
+    "url": "https://arxiv.org/pdf/1604.05957v1",
+    "entry_id": "http://arxiv.org/abs/1604.05957v1",
+    "queries": [
+      "argumentation persuasion language model"
+    ]
+  },
+  {
+    "title": "How do language models learn facts? Dynamics, curricula and hallucinations",
+    "authors": [
+      "Nicolas Zucchet",
+      "J\u00f6rg Bornschein",
+      "Stephanie Chan",
+      "Andrew Lampinen",
+      "Razvan Pascanu",
+      "Soham De"
+    ],
+    "year": 2025,
+    "month": 3,
+    "summary": "Large language models accumulate vast knowledge during pre-training, yet the dynamics governing this acquisition remain poorly understood. This work investigates the learning dynamics of language models on a synthetic factual recall task, uncovering three key findings: First, language models learn in three phases, exhibiting a performance plateau before acquiring precise factual knowledge. Mechani",
+    "url": "https://arxiv.org/pdf/2503.21676v2",
+    "entry_id": "http://arxiv.org/abs/2503.21676v2",
+    "queries": [
+      "argumentation persuasion language model",
+      "epistemic humility language models calibration"
+    ]
+  },
+  {
+    "title": "Burden of Persuasion in Argumentation",
+    "authors": [
+      "Roberta Calegari",
+      "Giovanni Sartor"
+    ],
+    "year": 2020,
+    "month": 9,
+    "summary": "This paper provides a formal model for the burden of persuasion in dialogues, and in particular, in legal proceedings. The model shows how an allocation of the burden of persuasion may induce single outcomes in dialectical contexts in which, without such an allocation, the status of conflicting arguments would remain undecided. Our approach is based on a two-stage labelling. The first-stage labell",
+    "url": "https://arxiv.org/pdf/2009.10244v1",
+    "entry_id": "http://arxiv.org/abs/2009.10244v1",
+    "queries": [
+      "argumentation persuasion language model"
+    ]
+  },
+  {
+    "title": "Measuring Epistemic Humility in Multimodal Large Language Models",
+    "authors": [
+      "Bingkui Tong",
+      "Jiaer Xia",
+      "Sifeng Shang",
+      "Kaiyang Zhou"
+    ],
+    "year": 2025,
+    "month": 9,
+    "summary": "Hallucinations in multimodal large language models (MLLMs) -- where the model generates content inconsistent with the input image -- pose significant risks in real-world applications, from misinformation in visual question answering to unsafe errors in decision-making. Existing benchmarks primarily test recognition accuracy, i.e., evaluating whether models can select the correct answer among distr",
+    "url": "https://arxiv.org/pdf/2509.09658v1",
+    "entry_id": "http://arxiv.org/abs/2509.09658v1",
+    "queries": [
+      "epistemic humility language models calibration"
+    ]
+  },
+  {
+    "title": "VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning",
+    "authors": [
+      "Wenyi Xiao",
+      "Xinchi Xu",
+      "Leilei Gan"
+    ],
+    "year": 2026,
+    "month": 4,
+    "summary": "Large Vision Language Models (LVLMs) achieve strong multimodal reasoning but frequently exhibit hallucinations and incorrect responses with high certainty, which hinders their usage in high-stakes domains. Existing verbalized confidence calibration methods, largely developed for text-only LLMs, typically optimize a single holistic confidence score using binary answer-level correctness. This design",
+    "url": "https://arxiv.org/pdf/2604.09529v1",
+    "entry_id": "http://arxiv.org/abs/2604.09529v1",
+    "queries": [
+      "epistemic humility language models calibration"
+    ]
+  },
+  {
+    "title": "Frictive Policy Optimization for LLMs: Epistemic Intervention, Risk-Sensitive Control, and Reflective Alignment",
+    "authors": [
+      "James Pustejovsky",
+      "Nikhil Krishnaswamy"
+    ],
+    "year": 2026,
+    "month": 4,
+    "summary": "We propose Frictive Policy Optimization (FPO), a framework for learning language model policies that regulate not only what to say, but when and how to intervene in order to manage epistemic and normative risk. Unlike standard alignment methods that optimize surface-level preference or task utility, FPO treats clarification, verification, challenge, redirection, and refusal as explicit control act",
+    "url": "https://arxiv.org/pdf/2604.25136v1",
+    "entry_id": "http://arxiv.org/abs/2604.25136v1",
+    "queries": [
+      "epistemic humility language models calibration"
+    ]
+  },
+  {
+    "title": "Unforgettable Generalization in Language Models",
+    "authors": [
+      "Eric Zhang",
+      "Leshem Chosen",
+      "Jacob Andreas"
+    ],
+    "year": 2024,
+    "month": 9,
+    "summary": "When language models (LMs) are trained to forget (or \"unlearn'') a skill, how precisely does their behavior change? We study the behavior of transformer LMs in which tasks have been forgotten via fine-tuning on randomized labels. Such LMs learn to generate near-random predictions for individual examples in the \"training'' set used for forgetting. Across tasks, however, LMs exhibit extreme variabil",
+    "url": "https://arxiv.org/pdf/2409.02228v1",
+    "entry_id": "http://arxiv.org/abs/2409.02228v1",
+    "queries": [
+      "epistemic humility language models calibration"
+    ]
+  },
+  {
+    "title": "Building a Strong Instruction Language Model for a Less-Resourced Language",
+    "authors": [
+      "Domen Vre\u0161",
+      "Tja\u0161a Ar\u010don",
+      "Timotej Petri\u010d",
+      "Dario Vajda",
+      "Marko Robnik-\u0160ikonja",
+      "Iztok Lebar Bajec"
+    ],
+    "year": 2026,
+    "month": 3,
+    "summary": "Large language models (LLMs) have become an essential tool for natural language processing and artificial intelligence in general. Current open-source models are primarily trained on English texts, resulting in poorer performance on less-resourced languages and cultures. We present a set of methodological approaches necessary for the successful adaptation of an LLM to a less-resourced language, an",
+    "url": "https://arxiv.org/pdf/2603.01691v1",
+    "entry_id": "http://arxiv.org/abs/2603.01691v1",
+    "queries": [
+      "epistemic humility language models calibration"
+    ]
+  },
+  {
+    "title": "Overview of the First Workshop on Language Models for Low-Resource Languages (LoResLM 2025)",
+    "authors": [
+      "Hansi Hettiarachchi",
+      "Tharindu Ranasinghe",
+      "Paul Rayson",
+      "Ruslan Mitkov",
+      "Mohamed Gaber",
+      "Damith Premasiri",
+      "Fiona Anting Tan",
+      "Lasitha Uyangodage"
+    ],
+    "year": 2024,
+    "month": 12,
+    "summary": "The first Workshop on Language Models for Low-Resource Languages (LoResLM 2025) was held in conjunction with the 31st International Conference on Computational Linguistics (COLING 2025) in Abu Dhabi, United Arab Emirates. This workshop mainly aimed to provide a forum for researchers to share and discuss their ongoing work on language models (LMs) focusing on low-resource languages, following the r",
+    "url": "https://arxiv.org/pdf/2412.16365v1",
+    "entry_id": "http://arxiv.org/abs/2412.16365v1",
+    "queries": [
+      "epistemic humility language models calibration"
+    ]
+  },
+  {
+    "title": "Discriminating Similar Languages: Evaluations and Explorations",
+    "authors": [
+      "Cyril Goutte",
+      "Serge L\u00e9ger",
+      "Shervin Malmasi",
+      "Marcos Zampieri"
+    ],
+    "year": 2016,
+    "month": 9,
+    "summary": "We present an analysis of the performance of machine learning classifiers on discriminating between similar languages and language varieties. We carried out a number of experiments using the results of the two editions of the Discriminating between Similar Languages (DSL) shared task. We investigate the progress made between the two tasks, estimate an upper bound on possible performance using ense",
+    "url": "https://arxiv.org/pdf/1610.00031v1",
+    "entry_id": "http://arxiv.org/abs/1610.00031v1",
+    "queries": [
+      "epistemic humility language models calibration"
+    ]
+  },
+  {
+    "title": "Are Compressed Language Models Less Subgroup Robust?",
+    "authors": [
+      "Leonidas Gee",
+      "Andrea Zugarini",
+      "Novi Quadrianto"
+    ],
+    "year": 2024,
+    "month": 3,
+    "summary": "To reduce the inference cost of large language models, model compression is increasingly used to create smaller scalable models. However, little is known about their robustness to minority subgroups defined by the labels and attributes of a dataset. In this paper, we investigate the effects of 18 different compression methods and settings on the subgroup robustness of BERT language models. We show",
+    "url": "https://arxiv.org/pdf/2403.17811v1",
+    "entry_id": "http://arxiv.org/abs/2403.17811v1",
+    "queries": [
+      "epistemic humility language models calibration"
+    ]
+  },
+  {
+    "title": "Epistemic Constitutionalism Or: how to avoid coherence bias",
+    "authors": [
+      "Michele Loi"
+    ],
+    "year": 2026,
+    "month": 1,
+    "summary": "Large language models increasingly function as artificial reasoners: they evaluate arguments, assign credibility, and express confidence. Yet their belief-forming behavior is governed by implicit, uninspected epistemic policies. This paper argues for an epistemic constitution for AI: explicit, contestable meta-norms that regulate how systems form and express beliefs. Source attribution bias provid",
+    "url": "https://arxiv.org/pdf/2601.14295v3",
+    "entry_id": "http://arxiv.org/abs/2601.14295v3",
+    "queries": [
+      "epistemic humility language models calibration"
+    ]
+  },
+  {
+    "title": "Homological mirror symmetry for log Calabi-Yau surfaces",
+    "authors": [
+      "Paul Hacking",
+      "Ailsa Keating",
+      "Wendelin Lutz"
+    ],
+    "year": 2020,
+    "month": 5,
+    "summary": "Given a log Calabi-Yau surface $Y$ with maximal boundary $D$ and distinguished complex structure, we explain how to construct a mirror Lefschetz fibration $w: M \\to \\mathbb{C}$, where $M$ is a Weinstein four-manifold, such that the directed Fukaya category of $w$ is isomorphic to $D^b \\text{Coh}(Y)$, and the wrapped Fukaya category $D^b\\mathcal{W} (M)$ is isomorphic to $D^b \\text{Coh}(Y \\backslash",
+    "url": "https://arxiv.org/pdf/2005.05010v3",
+    "entry_id": "http://arxiv.org/abs/2005.05010v3",
+    "queries": [
+      "RLHF reward hacking sycophancy"
+    ]
+  },
+  {
+    "title": "Reward Shaping to Mitigate Reward Hacking in RLHF",
+    "authors": [
+      "Jiayi Fu",
+      "Xuandong Zhao",
+      "Chengyuan Yao",
+      "Heng Wang",
+      "Qi Han",
+      "Yanghua Xiao"
+    ],
+    "year": 2025,
+    "month": 2,
+    "summary": "Reinforcement Learning from Human Feedback (RLHF) is essential for aligning large language models (LLMs) with human values. However, RLHF is susceptible to \\emph{reward hacking}, where the agent exploits flaws in the reward function rather than learning the intended behavior, thus degrading alignment. Although reward shaping helps stabilize RLHF and partially mitigate reward hacking, a systematic ",
+    "url": "https://arxiv.org/pdf/2502.18770v5",
+    "entry_id": "http://arxiv.org/abs/2502.18770v5",
+    "queries": [
+      "RLHF reward hacking sycophancy"
+    ]
+  },
+  {
+    "title": "The Energy Loss Phenomenon in RLHF: A New Perspective on Mitigating Reward Hacking",
+    "authors": [
+      "Yuchun Miao",
+      "Sen Zhang",
+      "Liang Ding",
+      "Yuqi Zhang",
+      "Lefei Zhang",
+      "Dacheng Tao"
+    ],
+    "year": 2025,
+    "month": 1,
+    "summary": "This work identifies the Energy Loss Phenomenon in Reinforcement Learning from Human Feedback (RLHF) and its connection to reward hacking. Specifically, energy loss in the final layer of a Large Language Model (LLM) gradually increases during the RL process, with an excessive increase in energy loss characterizing reward hacking. Beyond empirical analysis, we further provide a theoretical foundati",
+    "url": "https://arxiv.org/pdf/2501.19358v3",
+    "entry_id": "http://arxiv.org/abs/2501.19358v3",
+    "queries": [
+      "RLHF reward hacking sycophancy"
+    ]
+  },
+  {
+    "title": "Adversarial Reward Auditing for Active Detection and Mitigation of Reward Hacking",
+    "authors": [
+      "Mohammad Beigi",
+      "Ming Jin",
+      "Junshan Zhang",
+      "Qifan Wang",
+      "Lifu Huang"
+    ],
+    "year": 2026,
+    "month": 2,
+    "summary": "Reinforcement Learning from Human Feedback (RLHF) remains vulnerable to reward hacking, where models exploit spurious correlations in learned reward models to achieve high scores while violating human intent. Existing mitigations rely on static defenses that cannot adapt to novel exploitation strategies. We propose Adversarial Reward Auditing (ARA), a framework that reconceptualizes reward hacking",
+    "url": "https://arxiv.org/pdf/2602.01750v1",
+    "entry_id": "http://arxiv.org/abs/2602.01750v1",
+    "queries": [
+      "RLHF reward hacking sycophancy"
+    ]
+  },
+  {
+    "title": "InfoRM: Mitigating Reward Hacking in RLHF via Information-Theoretic Reward Modeling",
+    "authors": [
+      "Yuchun Miao",
+      "Sen Zhang",
+      "Liang Ding",
+      "Rong Bao",
+      "Lefei Zhang",
+      "Dacheng Tao"
+    ],
+    "year": 2024,
+    "month": 2,
+    "summary": "Despite the success of reinforcement learning from human feedback (RLHF) in aligning language models with human values, reward hacking, also termed reward overoptimization, remains a critical challenge. This issue primarily arises from reward misgeneralization, where reward models (RMs) compute reward using spurious features that are irrelevant to human preferences. In this work, we tackle this pr",
+    "url": "https://arxiv.org/pdf/2402.09345v5",
+    "entry_id": "http://arxiv.org/abs/2402.09345v5",
+    "queries": [
+      "RLHF reward hacking sycophancy"
+    ]
+  },
+  {
+    "title": "ODIN: Disentangled Reward Mitigates Hacking in RLHF",
+    "authors": [
+      "Lichang Chen",
+      "Chen Zhu",
+      "Davit Soselia",
+      "Jiuhai Chen",
+      "Tianyi Zhou",
+      "Tom Goldstein",
+      "Heng Huang",
+      "Mohammad Shoeybi",
+      "Bryan Catanzaro"
+    ],
+    "year": 2024,
+    "month": 2,
+    "summary": "In this work, we study the issue of reward hacking on the response length, a challenge emerging in Reinforcement Learning from Human Feedback (RLHF) on LLMs. A well-formatted, verbose but less helpful response from the LLMs can often deceive LLMs or even human evaluators to achieve high scores. The same issue also holds for some reward models in RL. To address the challenges in both training and e",
+    "url": "https://arxiv.org/pdf/2402.07319v1",
+    "entry_id": "http://arxiv.org/abs/2402.07319v1",
+    "queries": [
+      "RLHF reward hacking sycophancy"
+    ]
+  },
+  {
+    "title": "Mitigating Reward Hacking in RLHF via Advantage Sign Robustness",
+    "authors": [
+      "Shinnosuke Ono",
+      "Johannes Ackermann",
+      "Soichiro Nishimori",
+      "Takashi Ishida",
+      "Masashi Sugiyama"
+    ],
+    "year": 2026,
+    "month": 4,
+    "summary": "Reward models (RMs) used in reinforcement learning from human feedback (RLHF) are vulnerable to reward hacking: as the policy maximizes a learned proxy reward, true quality plateaus or degrades. We make the assumption that reward hacking is often caused by flipped advantage signs: instead of reducing the likelihood of a bad response, a flipped sign causes the update to increase it. By considering ",
+    "url": "https://arxiv.org/pdf/2604.02986v1",
+    "entry_id": "http://arxiv.org/abs/2604.02986v1",
+    "queries": [
+      "RLHF reward hacking sycophancy"
+    ]
+  },
+  {
+    "title": "Information-Theoretic Reward Modeling for Stable RLHF: Detecting and Mitigating Reward Hacking",
+    "authors": [
+      "Yuchun Miao",
+      "Liang Ding",
+      "Sen Zhang",
+      "Rong Bao",
+      "Lefei Zhang",
+      "Dacheng Tao"
+    ],
+    "year": 2025,
+    "month": 10,
+    "summary": "Despite the success of Reinforcement Learning from Human Feedback (RLHF) in aligning language models with human values, reward hacking-or reward over-optimization-remains a major challenge. We identify two key obstacles to its mitigation: (1) reward misgeneralization in reward modeling, where reward models overfit to spurious, preference-irrelevant features; and (2) the lack of suitable regulariza",
+    "url": "https://arxiv.org/pdf/2510.13694v1",
+    "entry_id": "http://arxiv.org/abs/2510.13694v1",
+    "queries": [
+      "RLHF reward hacking sycophancy"
+    ]
+  },
+  {
+    "title": "Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts",
+    "authors": [
+      "Haoxiang Wang",
+      "Wei Xiong",
+      "Tengyang Xie",
+      "Han Zhao",
+      "Tong Zhang"
+    ],
+    "year": 2024,
+    "month": 6,
+    "summary": "Reinforcement learning from human feedback (RLHF) has emerged as the primary method for aligning large language models (LLMs) with human preferences. The RLHF process typically starts by training a reward model (RM) using human preference data. Conventional RMs are trained on pairwise responses to the same user request, with relative ratings indicating which response humans prefer. The trained RM ",
+    "url": "https://arxiv.org/pdf/2406.12845v1",
+    "entry_id": "http://arxiv.org/abs/2406.12845v1",
+    "queries": [
+      "RLHF reward hacking sycophancy"
+    ]
+  },
+  {
+    "title": "Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models",
+    "authors": [
+      "Carson Denison",
+      "Monte MacDiarmid",
+      "Fazl Barez",
+      "David Duvenaud",
+      "Shauna Kravec",
+      "Samuel Marks",
+      "Nicholas Schiefer",
+      "Ryan Soklaski",
+      "Alex Tamkin",
+      "Jared Kaplan",
+      "Buck Shlegeris",
+      "Samuel R. Bowman",
+      "Ethan Perez",
+      "Evan Hubinger"
+    ],
+    "year": 2024,
+    "month": 6,
+    "summary": "In reinforcement learning, specification gaming occurs when AI systems learn undesired behaviors that are highly rewarded due to misspecified training goals. Specification gaming can range from simple behaviors like sycophancy to sophisticated and pernicious behaviors like reward-tampering, where a model directly modifies its own reward mechanism. However, these more pernicious behaviors may be to",
+    "url": "https://arxiv.org/pdf/2406.10162v3",
+    "entry_id": "http://arxiv.org/abs/2406.10162v3",
+    "queries": [
+      "RLHF reward hacking sycophancy"
+    ]
+  }
+]

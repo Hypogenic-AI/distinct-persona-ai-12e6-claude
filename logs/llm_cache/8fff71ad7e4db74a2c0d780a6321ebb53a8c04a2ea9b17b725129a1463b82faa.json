@@ -1,0 +1,1 @@
+{"content": "First, compute each binomial coefficient:\n\n\\[\n\\binom{10}{2} = \\frac{10 \\times 9}{2 \\times 1} = 45\n\\]\n\n\\[\n\\binom{8}{3} = \\frac{8 \\times 7 \\times 6}{3 \\times 2 \\times 1} = 56\n\\]\n\nNow multiply them:\n\n\\[\n45 \\times 56 = 2520\n\\]\n\n**Answer: (A) 2520**", "in": 72, "out": 108}
